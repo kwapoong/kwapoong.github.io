@@ -1,0 +1,16 @@
+_  ________ ____   _  ______________  _________
+|\/||__||  \|___   |\/||[__  | |__||_/ |___[__
+|  ||  ||__/|___   |  ||___] | |  || \_|______]
+
+  MADEMISTAKES.COM
+
+  Designer:     Tony Guo
+  Twitter:      @tony.guo.peng
+  Location:     Beijing, China
+
+  Language:     Chinese, English
+  Built with:   Gatsby <https://www.gatsbyjs.org/>
+                Visual Studio Code <https://code.visualstudio.com/>
+                Adobe Creative Suite <https://www.adobe.com/>
+                Travis CI <https://travis-ci.org/>
+                Netlify <https://www.netlify.com/>
