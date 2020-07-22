@@ -1,11 +1,8 @@
-_  ________ ____   _  ______________  _________
-|\/||__||  \|___   |\/||[__  | |__||_/ |___[__
-|  ||  ||__/|___   |  ||___] | |  || \_|______]
 
-  MADEMISTAKES.COM
+  KWAPOONG.GITHUB.IO
 
   Designer:     Tony Guo
-  Twitter:      @tony.guo.peng
+  Twitter:      @kwapoong
   Location:     Beijing, China
 
   Language:     Chinese, English

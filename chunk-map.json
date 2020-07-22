@@ -1,1 +1,45 @@
-{"app":["/app-effbd7c2abf12bec7946.js"],"component---src-pages-404-js":["/component---src-pages-404-js-b96042fc95df36004042.js"],"component---src-pages-faqs-index-js":["/component---src-pages-faqs-index-js-efb090c253b78716d8d3.js"],"component---src-pages-index-js":["/component---src-pages-index-js-67f272c109ed534622ee.js"],"component---src-pages-paperfaces-js":["/component---src-pages-paperfaces-js-acb3535e25f898d14cb5.js"],"component---src-pages-procreate-paintings-js":["/component---src-pages-procreate-paintings-js-105c3041b561f21f2de0.js"],"component---src-pages-tag-js":["/component---src-pages-tag-js-b6c011ce77e1dc88f958.js"],"component---src-pages-tiny-paintings-js":["/component---src-pages-tiny-paintings-js-e15f512be2fb2083c0b5.js"],"component---src-pages-work-js":["/component---src-pages-work-js-388609f81bca677ca2dc.js"],"component---src-templates-categories-js":["/component---src-templates-categories-js-89514f284acc35dd0efe.js"],"component---src-templates-page-js":["/component---src-templates-page-js-51a807cc03c83a64a2af.js"],"component---src-templates-post-js":["/component---src-templates-post-js-81deb303d6204633c945.js"],"component---src-templates-tags-js":["/component---src-templates-tags-js-7202b49398c23978ab86.js"]}
+{
+  "app": ["/app-3085f58554d12342fe1d.js"],
+  "component---src-pages-404-js": [
+    "/component---src-pages-404-js-03d60ef696848a5e0302.js"
+  ],
+  "component---src-pages-author-js": [
+    "/component---src-pages-author-js-3a523168b314f35754a4.js"
+  ],
+  "component---src-pages-faqs-index-js": [
+    "/component---src-pages-faqs-index-js-49b91f762a02b4388bbe.js"
+  ],
+  "component---src-pages-index-js": [
+    "/component---src-pages-index-js-bcb4bc508b962f478932.js"
+  ],
+  "component---src-pages-paperfaces-js": [
+    "/component---src-pages-paperfaces-js-5487194da2122b524a6b.js"
+  ],
+  "component---src-pages-procreate-paintings-js": [
+    "/component---src-pages-procreate-paintings-js-5dcde8fef920f1d207ae.js"
+  ],
+  "component---src-pages-tag-js": [
+    "/component---src-pages-tag-js-ecc2beea9de80ffb407c.js"
+  ],
+  "component---src-pages-tiny-paintings-js": [
+    "/component---src-pages-tiny-paintings-js-1a16ee2e38727f710d38.js"
+  ],
+  "component---src-pages-work-js": [
+    "/component---src-pages-work-js-fe57248414d2e173a23d.js"
+  ],
+  "component---src-templates-authors-js": [
+    "/component---src-templates-authors-js-a5099bf7edc9b7e8118d.js"
+  ],
+  "component---src-templates-categories-js": [
+    "/component---src-templates-categories-js-37703ef0ec876bfd29a0.js"
+  ],
+  "component---src-templates-page-js": [
+    "/component---src-templates-page-js-d1afc49e11b7f79b60ac.js"
+  ],
+  "component---src-templates-post-js": [
+    "/component---src-templates-post-js-aa3acdc30d12a82a1b7a.js"
+  ],
+  "component---src-templates-tags-js": [
+    "/component---src-templates-tags-js-e8305f4dde8310c615f7.js"
+  ]
+}

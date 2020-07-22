@@ -1,1 +1,198 @@
-{"componentChunkName":"component---src-pages-work-js","path":"/work/","result":{"data":{"site":{"siteMetadata":{"author":{"name":"Tony Guo","url":"https://tonykwok.github.io"}}},"allMarkdownRemark":{"edges":[{"node":{"id":"b5dcfb55-0149-57ef-8a15-cce6dca2cf42","excerpt":"<p><a href=\"https://2littlerosebuds.com\"><strong>2 Little Rosebuds</strong></a> is a blog written by my wife Wendy Rose. The site started as a place for her to post about our twin girls and morphed into…</p>","timeToRead":2,"frontmatter":{"title":"2 Little Rosebuds","date":"January 21, 2020","path":"/work/2-little-rosebuds/","author":null,"excerpt":"Creative and site development for 2 Little Rosebuds — a blog all about subscription boxes.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/ab2790e0c90f736bffa60842de98ef88/da113/2-little-rosebuds-feature.jpg","srcSet":"/static/ab2790e0c90f736bffa60842de98ef88/3f132/2-little-rosebuds-feature.jpg 100w,\n/static/ab2790e0c90f736bffa60842de98ef88/8850c/2-little-rosebuds-feature.jpg 200w,\n/static/ab2790e0c90f736bffa60842de98ef88/da113/2-little-rosebuds-feature.jpg 400w,\n/static/ab2790e0c90f736bffa60842de98ef88/7223d/2-little-rosebuds-feature.jpg 600w,\n/static/ab2790e0c90f736bffa60842de98ef88/f2cbb/2-little-rosebuds-feature.jpg 800w,\n/static/ab2790e0c90f736bffa60842de98ef88/236a8/2-little-rosebuds-feature.jpg 1580w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"0253656e-455e-5e33-9f8c-f0b44a2addb5","excerpt":"","timeToRead":1,"frontmatter":{"title":"PaperFaces iPad project","date":"November 06, 2018","path":"/paperfaces/","author":null,"excerpt":"Portraits painted digitally on an iPad with Paper for iOS.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/f3691df6c0e8169e366d8b1f7acbfa7b/da113/paperfaces-project-feature.jpg","srcSet":"/static/f3691df6c0e8169e366d8b1f7acbfa7b/3f132/paperfaces-project-feature.jpg 100w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/8850c/paperfaces-project-feature.jpg 200w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/da113/paperfaces-project-feature.jpg 400w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/7223d/paperfaces-project-feature.jpg 600w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/f2cbb/paperfaces-project-feature.jpg 800w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/9352a/paperfaces-project-feature.jpg 1600w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"b40cdc0d-000c-5d9c-a448-bb4e0ce3f9c1","excerpt":"","timeToRead":1,"frontmatter":{"title":"Procreate iPad paintings","date":"May 01, 2017","path":"/procreate-paintings/","author":null,"excerpt":"Portraits painted digitally on an iPad with Procreate for iOS.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/da113/procreate-paintings-feature.jpg","srcSet":"/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/3f132/procreate-paintings-feature.jpg 100w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/8850c/procreate-paintings-feature.jpg 200w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/da113/procreate-paintings-feature.jpg 400w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/7223d/procreate-paintings-feature.jpg 600w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/f2cbb/procreate-paintings-feature.jpg 800w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/9352a/procreate-paintings-feature.jpg 1600w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"cf7249e6-9d3c-5f40-a6df-3532b1b72290","excerpt":"<p>Eko Wave, a company started by <a href=\"https://twitter.com/endonend\">two</a> <a href=\"https://twitter.com/bjpmba\">pals</a> and myself, just took the wraps off our first app — <strong>Relic Scout</strong>. Last week we launched a teaser site…</p>","timeToRead":1,"frontmatter":{"title":"Relic Scout","date":"April 19, 2017","path":"/work/relic-scout/","author":null,"excerpt":"Site design and creative for Relic Scout — an app to make collecting simpler, while saving you money.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/17d517c9a58b61605168f24037e9682b/da113/relic-scout-feature.jpg","srcSet":"/static/17d517c9a58b61605168f24037e9682b/3f132/relic-scout-feature.jpg 100w,\n/static/17d517c9a58b61605168f24037e9682b/8850c/relic-scout-feature.jpg 200w,\n/static/17d517c9a58b61605168f24037e9682b/da113/relic-scout-feature.jpg 400w,\n/static/17d517c9a58b61605168f24037e9682b/7223d/relic-scout-feature.jpg 600w,\n/static/17d517c9a58b61605168f24037e9682b/f2cbb/relic-scout-feature.jpg 800w,\n/static/17d517c9a58b61605168f24037e9682b/b21f6/relic-scout-feature.jpg 1689w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"7acf811f-5a40-540b-8b89-ed107da3c542","excerpt":"","timeToRead":1,"frontmatter":{"title":"Tiny paintings","date":"April 08, 2017","path":"/tiny-paintings/","author":null,"excerpt":"Miniature watercolor portraits painted at really small sizes.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/0a60255b10bab55ffe87c6105696b174/da113/tiny-paintings.jpg","srcSet":"/static/0a60255b10bab55ffe87c6105696b174/3f132/tiny-paintings.jpg 100w,\n/static/0a60255b10bab55ffe87c6105696b174/8850c/tiny-paintings.jpg 200w,\n/static/0a60255b10bab55ffe87c6105696b174/da113/tiny-paintings.jpg 400w,\n/static/0a60255b10bab55ffe87c6105696b174/7223d/tiny-paintings.jpg 600w,\n/static/0a60255b10bab55ffe87c6105696b174/f2cbb/tiny-paintings.jpg 800w,\n/static/0a60255b10bab55ffe87c6105696b174/356ef/tiny-paintings.jpg 1280w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"310be993-2daa-57a6-8d85-669dc2808ec4","excerpt":"<p><strong>Eko Wave LLC</strong> is a company started by <a href=\"https://twitter.com/endonend\">two</a> <a href=\"https://twitter.com/bjpmba\">pals</a> and myself to provide value to niche consumers through well-thought-out applications.</p>\n<p>When designing the logo I wanted something that played off of the word <em>wave</em> found in our name, while…</p>","timeToRead":1,"frontmatter":{"title":"Eko Wave","date":"April 01, 2017","path":"/work/eko-wave/","author":null,"excerpt":"Site design and creative for Eko Wave — a team specializing in niche applications.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/e4a9afde40422c447f2adbaea96ef41e/da113/eko-wave-feature.jpg","srcSet":"/static/e4a9afde40422c447f2adbaea96ef41e/3f132/eko-wave-feature.jpg 100w,\n/static/e4a9afde40422c447f2adbaea96ef41e/8850c/eko-wave-feature.jpg 200w,\n/static/e4a9afde40422c447f2adbaea96ef41e/da113/eko-wave-feature.jpg 400w,\n/static/e4a9afde40422c447f2adbaea96ef41e/7223d/eko-wave-feature.jpg 600w,\n/static/e4a9afde40422c447f2adbaea96ef41e/f2cbb/eko-wave-feature.jpg 800w,\n/static/e4a9afde40422c447f2adbaea96ef41e/a2a79/eko-wave-feature.jpg 1024w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"e9376214-3d1a-5cb9-98ae-0c32d4a2e2b0","excerpt":"<p>Below are the Jekyll starters I’ve developed and open sourced. Each theme contains the <code class=\"language-text\">_layouts</code>, <code class=\"language-text\">_includes</code>, Sass/CSS, JavaScript, and other sample files…</p>","timeToRead":4,"frontmatter":{"title":"Jekyll themes","date":"March 30, 2017","path":"/work/jekyll-themes/","author":null,"excerpt":"Open source Jekyll themes to help build a site or blog on GitHub Pages, Netlify, and more.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/da113/jekyll-themes-feature.jpg","srcSet":"/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/3f132/jekyll-themes-feature.jpg 100w,\n/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/8850c/jekyll-themes-feature.jpg 200w,\n/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/da113/jekyll-themes-feature.jpg 400w,\n/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/7223d/jekyll-themes-feature.jpg 600w,\n/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/f2cbb/jekyll-themes-feature.jpg 800w,\n/static/4b7d6a15f1b4ba25cbc8ce68e163b8eb/4883f/jekyll-themes-feature.jpg 1619w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"5f634b7d-7693-55bc-b625-6de823eede48","excerpt":"<p>Basically Basic is a <a href=\"https://jekyllrb.com/docs/themes/\">Jekyll theme</a> meant as a substitute for the default — <a href=\"https://github.com/jekyll/minima\">Minima</a>. Conventions and features found there are fully supported…</p>","timeToRead":1,"frontmatter":{"title":"Basically Basic","date":"March 29, 2017","path":"/work/basically-basic-jekyll-theme/","author":null,"excerpt":"Your new Jekyll default theme.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/23d71c3eb33cf7e7c475822546ca7ade/da113/jekyll-theme-basically-basic-feature.jpg","srcSet":"/static/23d71c3eb33cf7e7c475822546ca7ade/3f132/jekyll-theme-basically-basic-feature.jpg 100w,\n/static/23d71c3eb33cf7e7c475822546ca7ade/8850c/jekyll-theme-basically-basic-feature.jpg 200w,\n/static/23d71c3eb33cf7e7c475822546ca7ade/da113/jekyll-theme-basically-basic-feature.jpg 400w,\n/static/23d71c3eb33cf7e7c475822546ca7ade/7223d/jekyll-theme-basically-basic-feature.jpg 600w,\n/static/23d71c3eb33cf7e7c475822546ca7ade/f2cbb/jekyll-theme-basically-basic-feature.jpg 800w,\n/static/23d71c3eb33cf7e7c475822546ca7ade/ab354/jekyll-theme-basically-basic-feature.jpg 1234w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"a72d3553-d065-520f-a6b0-964e5298c8eb","excerpt":"<p>Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or your own…</p>","timeToRead":1,"frontmatter":{"title":"Minimal Mistakes","date":"April 15, 2016","path":"/work/minimal-mistakes-jekyll-theme/","author":null,"excerpt":"A flexible two-column Jekyll theme.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/fdfedffa0cd9f1b85baa15ef43451be7/da113/minimal-mistakes-3-feature.jpg","srcSet":"/static/fdfedffa0cd9f1b85baa15ef43451be7/3f132/minimal-mistakes-3-feature.jpg 100w,\n/static/fdfedffa0cd9f1b85baa15ef43451be7/8850c/minimal-mistakes-3-feature.jpg 200w,\n/static/fdfedffa0cd9f1b85baa15ef43451be7/da113/minimal-mistakes-3-feature.jpg 400w,\n/static/fdfedffa0cd9f1b85baa15ef43451be7/7223d/minimal-mistakes-3-feature.jpg 600w,\n/static/fdfedffa0cd9f1b85baa15ef43451be7/f2cbb/minimal-mistakes-3-feature.jpg 800w,\n/static/fdfedffa0cd9f1b85baa15ef43451be7/9352a/minimal-mistakes-3-feature.jpg 1600w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"f8aaffb9-ec5a-54dd-8081-331c4d7f1ba1","excerpt":"<p>What originally started as a site refresh quickly turned into something else when Jekyll baked in native support for Sass with a <a href=\"http://jekyllrb.com/docs/history/#v2-0-0\">2.0 release</a>…</p>","timeToRead":2,"frontmatter":{"title":"Skinny Bones","date":"September 02, 2014","path":"/work/skinny-bones-jekyll/","author":null,"excerpt":"A lightweight website starter for Jekyll.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/f6f11b2723d3bc05992c09211de879e1/da113/skinny-bones-preview-feature.jpg","srcSet":"/static/f6f11b2723d3bc05992c09211de879e1/3f132/skinny-bones-preview-feature.jpg 100w,\n/static/f6f11b2723d3bc05992c09211de879e1/8850c/skinny-bones-preview-feature.jpg 200w,\n/static/f6f11b2723d3bc05992c09211de879e1/da113/skinny-bones-preview-feature.jpg 400w,\n/static/f6f11b2723d3bc05992c09211de879e1/7223d/skinny-bones-preview-feature.jpg 600w,\n/static/f6f11b2723d3bc05992c09211de879e1/f2cbb/skinny-bones-preview-feature.jpg 800w,\n/static/f6f11b2723d3bc05992c09211de879e1/2836c/skinny-bones-preview-feature.jpg 1418w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"573965ce-977c-5bce-b1d0-c340bc521f46","excerpt":"<p>They say three times the charm, so here is another free Jekyll blog theme for you. I’ve learned a ton since open sourcing my first two…</p>","timeToRead":4,"frontmatter":{"title":"HPSTR","date":"August 26, 2013","path":"/work/hpstr-jekyll-theme/","author":null,"excerpt":"Jekyll blog theme designed to give your site a tumble-log look.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/8b4c06214b5f78b2db7ae49a28641f3a/da113/hpstr-preview-feature.jpg","srcSet":"/static/8b4c06214b5f78b2db7ae49a28641f3a/3f132/hpstr-preview-feature.jpg 100w,\n/static/8b4c06214b5f78b2db7ae49a28641f3a/8850c/hpstr-preview-feature.jpg 200w,\n/static/8b4c06214b5f78b2db7ae49a28641f3a/da113/hpstr-preview-feature.jpg 400w,\n/static/8b4c06214b5f78b2db7ae49a28641f3a/7223d/hpstr-preview-feature.jpg 600w,\n/static/8b4c06214b5f78b2db7ae49a28641f3a/f2cbb/hpstr-preview-feature.jpg 800w,\n/static/8b4c06214b5f78b2db7ae49a28641f3a/277b9/hpstr-preview-feature.jpg 1632w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}},{"node":{"id":"766fbfc4-7fd8-5a9f-aeb8-47c25c988c3e","excerpt":"<p>After having so much fun creating and releasing <a href=\"https://mmistakes.github.io/minimal-mistakes\">my first open source Jekyll theme</a>, I figured I’d go at it again. So here be the fruit of…</p>","timeToRead":1,"frontmatter":{"title":"So Simple","date":"June 26, 2013","path":"/work/so-simple-jekyll-theme/","author":null,"excerpt":"A simple Jekyll theme for words and pictures.","featured":null,"categories":["work"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.7857142857142858,"src":"/static/30b43dc1bdc5fdde5583f0edd8b5da24/da113/jekyll-theme-so-simple-feature.jpg","srcSet":"/static/30b43dc1bdc5fdde5583f0edd8b5da24/3f132/jekyll-theme-so-simple-feature.jpg 100w,\n/static/30b43dc1bdc5fdde5583f0edd8b5da24/8850c/jekyll-theme-so-simple-feature.jpg 200w,\n/static/30b43dc1bdc5fdde5583f0edd8b5da24/da113/jekyll-theme-so-simple-feature.jpg 400w,\n/static/30b43dc1bdc5fdde5583f0edd8b5da24/7223d/jekyll-theme-so-simple-feature.jpg 600w,\n/static/30b43dc1bdc5fdde5583f0edd8b5da24/f2cbb/jekyll-theme-so-simple-feature.jpg 800w,\n/static/30b43dc1bdc5fdde5583f0edd8b5da24/6a6ec/jekyll-theme-so-simple-feature.jpg 1746w","sizes":"(max-width: 400px) 100vw, 400px"}}}}}}]},"githubData":{"data":{"viewer":{"repositories":{"nodes":[{"name":"twinkle","description":"Java Swing/OpenGL Photo Viewer","homepageUrl":"","resourcePath":"/tonykwok/twinkle","updatedAt":"2020-06-28","languages":{"edges":[{"node":{"name":"Java","color":"#b07219"}}]},"licenseInfo":null,"stargazers":{"totalCount":0}},{"name":"glexcess","description":"JOGL 2.0 port of glexcess","homepageUrl":"","resourcePath":"/tonykwok/glexcess","updatedAt":"2020-06-29","languages":{"edges":[{"node":{"name":"Java","color":"#b07219"}}]},"licenseInfo":{"name":"GNU General Public License v2.0"},"stargazers":{"totalCount":0}},{"name":"aerith","description":"A Filthy Rich Swing Demo by Romain Guy at JavaOne 2006","homepageUrl":"https://java.net/projects/aerith/","resourcePath":"/tonykwok/aerith","updatedAt":"2017-09-26","languages":{"edges":[{"node":{"name":"Java","color":"#b07219"}}]},"licenseInfo":null,"stargazers":{"totalCount":1}},{"name":"regex4j","description":"A Regular Expression Engine ported from Microsoft's .Net Core Libraries for Java platform","homepageUrl":"","resourcePath":"/tonykwok/regex4j","updatedAt":"2020-05-12","languages":{"edges":[{"node":{"name":"Java","color":"#b07219"}}]},"licenseInfo":null,"stargazers":{"totalCount":1}},{"name":"swingfx","description":"SwingFX is a suite of effects, components, and more that are written in Java, typically using Java2D and Swing.","homepageUrl":null,"resourcePath":"/tonykwok/swingfx","updatedAt":"2020-03-16","languages":{"edges":[{"node":{"name":"Java","color":"#b07219"}}]},"licenseInfo":null,"stargazers":{"totalCount":1}}]}}}}},"pageContext":{}}}
+{
+  "componentChunkName": "component---src-pages-work-js",
+  "path": "/work/",
+  "result": {
+    "data": {
+      "site": {
+        "siteMetadata": {
+          "author": { "name": "Tony Guo", "url": "https://kwapoong.github.io" }
+        }
+      },
+      "allMarkdownRemark": {
+        "edges": [
+          {
+            "node": {
+              "id": "b5dcfb55-0149-57ef-8a15-cce6dca2cf42",
+              "excerpt": "<p>TODO</p>",
+              "timeToRead": 1,
+              "frontmatter": {
+                "title": "2 Little Rosebuds",
+                "date": "January 21, 2020",
+                "path": "/work/2-little-rosebuds/",
+                "author": null,
+                "excerpt": "Creative and site development for 2 Little Rosebuds — a blog all about subscription boxes.",
+                "featured": null,
+                "categories": ["work"],
+                "image": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "aspectRatio": 1.7857142857142858,
+                      "src": "/static/ab2790e0c90f736bffa60842de98ef88/da113/2-little-rosebuds-feature.jpg",
+                      "srcSet": "/static/ab2790e0c90f736bffa60842de98ef88/3f132/2-little-rosebuds-feature.jpg 100w,\n/static/ab2790e0c90f736bffa60842de98ef88/8850c/2-little-rosebuds-feature.jpg 200w,\n/static/ab2790e0c90f736bffa60842de98ef88/da113/2-little-rosebuds-feature.jpg 400w,\n/static/ab2790e0c90f736bffa60842de98ef88/7223d/2-little-rosebuds-feature.jpg 600w,\n/static/ab2790e0c90f736bffa60842de98ef88/f2cbb/2-little-rosebuds-feature.jpg 800w,\n/static/ab2790e0c90f736bffa60842de98ef88/236a8/2-little-rosebuds-feature.jpg 1580w",
+                      "sizes": "(max-width: 400px) 100vw, 400px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "0253656e-455e-5e33-9f8c-f0b44a2addb5",
+              "excerpt": "",
+              "timeToRead": 1,
+              "frontmatter": {
+                "title": "PaperFaces iPad project",
+                "date": "November 06, 2018",
+                "path": "/paperfaces/",
+                "author": null,
+                "excerpt": "Portraits painted digitally on an iPad with Paper for iOS.",
+                "featured": null,
+                "categories": ["work"],
+                "image": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "aspectRatio": 1.7857142857142858,
+                      "src": "/static/f3691df6c0e8169e366d8b1f7acbfa7b/da113/paperfaces-project-feature.jpg",
+                      "srcSet": "/static/f3691df6c0e8169e366d8b1f7acbfa7b/3f132/paperfaces-project-feature.jpg 100w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/8850c/paperfaces-project-feature.jpg 200w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/da113/paperfaces-project-feature.jpg 400w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/7223d/paperfaces-project-feature.jpg 600w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/f2cbb/paperfaces-project-feature.jpg 800w,\n/static/f3691df6c0e8169e366d8b1f7acbfa7b/9352a/paperfaces-project-feature.jpg 1600w",
+                      "sizes": "(max-width: 400px) 100vw, 400px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "b40cdc0d-000c-5d9c-a448-bb4e0ce3f9c1",
+              "excerpt": "",
+              "timeToRead": 1,
+              "frontmatter": {
+                "title": "Procreate iPad paintings",
+                "date": "May 01, 2017",
+                "path": "/procreate-paintings/",
+                "author": null,
+                "excerpt": "Portraits painted digitally on an iPad with Procreate for iOS.",
+                "featured": null,
+                "categories": ["work"],
+                "image": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "aspectRatio": 1.7857142857142858,
+                      "src": "/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/da113/procreate-paintings-feature.jpg",
+                      "srcSet": "/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/3f132/procreate-paintings-feature.jpg 100w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/8850c/procreate-paintings-feature.jpg 200w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/da113/procreate-paintings-feature.jpg 400w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/7223d/procreate-paintings-feature.jpg 600w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/f2cbb/procreate-paintings-feature.jpg 800w,\n/static/09d1a0b9d7ad4232d80cae6fcf2d0b72/9352a/procreate-paintings-feature.jpg 1600w",
+                      "sizes": "(max-width: 400px) 100vw, 400px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "7acf811f-5a40-540b-8b89-ed107da3c542",
+              "excerpt": "",
+              "timeToRead": 1,
+              "frontmatter": {
+                "title": "Tiny paintings",
+                "date": "April 08, 2017",
+                "path": "/tiny-paintings/",
+                "author": null,
+                "excerpt": "Miniature watercolor portraits painted at really small sizes.",
+                "featured": null,
+                "categories": ["work"],
+                "image": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "aspectRatio": 1.7857142857142858,
+                      "src": "/static/0a60255b10bab55ffe87c6105696b174/da113/tiny-paintings.jpg",
+                      "srcSet": "/static/0a60255b10bab55ffe87c6105696b174/3f132/tiny-paintings.jpg 100w,\n/static/0a60255b10bab55ffe87c6105696b174/8850c/tiny-paintings.jpg 200w,\n/static/0a60255b10bab55ffe87c6105696b174/da113/tiny-paintings.jpg 400w,\n/static/0a60255b10bab55ffe87c6105696b174/7223d/tiny-paintings.jpg 600w,\n/static/0a60255b10bab55ffe87c6105696b174/f2cbb/tiny-paintings.jpg 800w,\n/static/0a60255b10bab55ffe87c6105696b174/356ef/tiny-paintings.jpg 1280w",
+                      "sizes": "(max-width: 400px) 100vw, 400px"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "githubData": {
+        "data": {
+          "viewer": {
+            "repositories": {
+              "nodes": [
+                {
+                  "name": "glexcess",
+                  "description": "JOGL 2.0 port of glexcess",
+                  "homepageUrl": "",
+                  "resourcePath": "/tonykwok/glexcess",
+                  "updatedAt": "2020-06-29",
+                  "languages": {
+                    "edges": [
+                      { "node": { "name": "Java", "color": "#b07219" } }
+                    ]
+                  },
+                  "licenseInfo": { "name": "GNU General Public License v2.0" },
+                  "stargazers": { "totalCount": 0 }
+                },
+                {
+                  "name": "tonykwok",
+                  "description": null,
+                  "homepageUrl": null,
+                  "resourcePath": "/tonykwok/tonykwok",
+                  "updatedAt": "2020-07-20",
+                  "languages": { "edges": [] },
+                  "licenseInfo": null,
+                  "stargazers": { "totalCount": 0 }
+                },
+                {
+                  "name": "aerith",
+                  "description": "A Filthy Rich Swing Demo by Romain Guy at JavaOne 2006",
+                  "homepageUrl": "https://java.net/projects/aerith/",
+                  "resourcePath": "/tonykwok/aerith",
+                  "updatedAt": "2017-09-26",
+                  "languages": {
+                    "edges": [
+                      { "node": { "name": "Java", "color": "#b07219" } }
+                    ]
+                  },
+                  "licenseInfo": null,
+                  "stargazers": { "totalCount": 1 }
+                },
+                {
+                  "name": "regex4j",
+                  "description": "A Regular Expression Engine ported from Microsoft's .Net Core Libraries for Java platform",
+                  "homepageUrl": "",
+                  "resourcePath": "/tonykwok/regex4j",
+                  "updatedAt": "2020-05-12",
+                  "languages": {
+                    "edges": [
+                      { "node": { "name": "Java", "color": "#b07219" } }
+                    ]
+                  },
+                  "licenseInfo": null,
+                  "stargazers": { "totalCount": 1 }
+                },
+                {
+                  "name": "swingfx",
+                  "description": "SwingFX is a suite of effects, components, and more that are written in Java, typically using Java2D and Swing.",
+                  "homepageUrl": null,
+                  "resourcePath": "/tonykwok/swingfx",
+                  "updatedAt": "2020-03-16",
+                  "languages": {
+                    "edges": [
+                      { "node": { "name": "Java", "color": "#b07219" } }
+                    ]
+                  },
+                  "licenseInfo": null,
+                  "stargazers": { "totalCount": 1 }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "pageContext": {}
+  }
+}

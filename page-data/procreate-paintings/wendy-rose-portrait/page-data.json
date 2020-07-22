@@ -1,1 +1,61 @@
-{"componentChunkName":"component---src-templates-post-js","path":"/procreate-paintings/wendy-rose-portrait/","result":{"data":{"markdownRemark":{"frontmatter":{"title":"Tattoos turning to mud","date":"2013-09-03T00:00:00.000Z","date_pretty":"September 3rd, 2013","date_from_now":"7 years ago","last_modified_at":"2020-01-06T16:00:23.000Z","last_modified_at_from_now":"6 months ago","path":"/procreate-paintings/wendy-rose-portrait/","author":null,"excerpt":"Portrait of Wendy Rose, digitally painted with Procreate on an iPad.","tags":["Procreate","portrait","illustration","time lapse"],"image":{"childImageSharp":{"fluid":{"aspectRatio":1.3349514563106797,"src":"/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg","srcSet":"/static/d0101ff003c6d18ad6671c039fff0d79/6e883/wendy-rose-procreate.jpg 275w,\n/static/d0101ff003c6d18ad6671c039fff0d79/a09ef/wendy-rose-procreate.jpg 550w,\n/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg 1100w,\n/static/d0101ff003c6d18ad6671c039fff0d79/5d6ff/wendy-rose-procreate.jpg 1650w,\n/static/d0101ff003c6d18ad6671c039fff0d79/d2f4e/wendy-rose-procreate.jpg 2048w","sizes":"(max-width: 1100px) 100vw, 1100px"},"fixed":{"src":"/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg","height":825,"width":1100}}},"toc":null,"comments":null,"comments_locked":null,"hide_meta":null},"id":"882d400e-291e-513e-b83b-1b6230562a78","html":"<p>Portrait of Wendy inspired by a portrait I <a href=\"/paperfaces/veganwendy-portrait/\">originally drew in Paper</a> and <a href=\"/paperfaces/veganwendy-2-portrait/\">revisited</a> several years later. Digitally painted with Procreate on a 3rd generation iPad. </p>\n<p>This was my first attempt at using <a href=\"http://procreate.si/\"><strong>Procreate</strong></a> and decided to give it a try in between working on my <a href=\"/paperfaces/\">PaperFaces Project</a>.</p>\n<p>Having used <a href=\"http://www.fiftythree.com/\">FiftyThree’s Paper app</a> up until this point I was overwhelmed by all of Procreate’s features. The power was certainly there, but the simplicity of picking up an iPad and stylus to start a sketch wasn’t.</p>\n<p>Paper’s sketchbook motif resonated with me more than the approach digital painting powerhouses like Procreate were pursuing. Learning a complex and feature rich app was not something I had the time to mess with. So I abandoned Procreate with the goal of returning to it a year or two…</p>\n<p>Time lapse video recorded within Procreate.</p>\n<p><div class=\"gatsby-resp-iframe-wrapper\" style=\"padding-bottom: 56.42857142857143%; position: relative; height: 0; overflow: hidden; \" > <div class=\"embedVideo-container\"> <iframe data-src=\"https://www.youtube-nocookie.com/embed/w2e0phIhGq8?rel=0\" class=\"embedVideo-iframe lazyload\" style=\"border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; \" allowfullscreen></iframe> </div> </div></p>\n<p><strong>Tools used:</strong></p>\n<ul>\n<li><a href=\"http://www.amazon.com/gp/product/B009K448L4/ref=as_li_ss_tl?ie=UTF8&#x26;camp=1789&#x26;creative=390957&#x26;creativeASIN=B009K448L4&#x26;linkCode=as2&#x26;tag=mademist-20\">Pogo Connect Bluetooth Smart Pen</a></li>\n<li><a href=\"http://procreate.si/\">Procreate</a></li>\n</ul>","excerpt":"Portrait of Wendy inspired by a portrait I originally drew in Paper and revisited several years later. Digitally painted with Procreate on a…","timeToRead":1,"tableOfContents":""},"comments":{"edges":[]}},"pageContext":{"next":{"frontmatter":{"path":"/mastering-paper/drawing-clouds/","title":"Mastering Paper for iOS: drawing skies and clouds","categories":["mastering-paper"],"tags":["Paper for iOS","tutorial","Apple"]},"fileAbsolutePath":"/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/mastering-paper/drawing-clouds.md"},"previous":{"frontmatter":{"path":"/paperfaces/alasdair91-portrait/","title":"Spooky sepia lighting","categories":["paperfaces"],"tags":["portrait","illustration","Paper for iOS","black and white"]},"fileAbsolutePath":"/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/paperfaces/alasdair91-portrait.md"}}}}
+{
+  "componentChunkName": "component---src-templates-post-js",
+  "path": "/procreate-paintings/wendy-rose-portrait/",
+  "result": {
+    "data": {
+      "markdownRemark": {
+        "frontmatter": {
+          "title": "Tattoos turning to mud",
+          "authors": [{ "id": "mmistakes", "name": "Michael Rose" }],
+          "date": "2013-09-03T00:00:00.000Z",
+          "date_pretty": "September 3rd, 2013",
+          "date_from_now": "7 years ago",
+          "last_modified_at": "2020-01-06T16:00:23.000Z",
+          "last_modified_at_from_now": "7 months ago",
+          "path": "/procreate-paintings/wendy-rose-portrait/",
+          "author": null,
+          "excerpt": "Portrait of Wendy Rose, digitally painted with Procreate on an iPad.",
+          "tags": ["Procreate", "portrait", "illustration", "time lapse"],
+          "image": {
+            "childImageSharp": {
+              "fluid": {
+                "aspectRatio": 1.3349514563106797,
+                "src": "/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg",
+                "srcSet": "/static/d0101ff003c6d18ad6671c039fff0d79/6e883/wendy-rose-procreate.jpg 275w,\n/static/d0101ff003c6d18ad6671c039fff0d79/a09ef/wendy-rose-procreate.jpg 550w,\n/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg 1100w,\n/static/d0101ff003c6d18ad6671c039fff0d79/5d6ff/wendy-rose-procreate.jpg 1650w,\n/static/d0101ff003c6d18ad6671c039fff0d79/d2f4e/wendy-rose-procreate.jpg 2048w",
+                "sizes": "(max-width: 1100px) 100vw, 1100px"
+              },
+              "fixed": {
+                "src": "/static/d0101ff003c6d18ad6671c039fff0d79/fc20c/wendy-rose-procreate.jpg",
+                "height": 825,
+                "width": 1100
+              }
+            }
+          },
+          "toc": null,
+          "comments": null,
+          "comments_locked": null,
+          "hide_meta": null
+        },
+        "id": "882d400e-291e-513e-b83b-1b6230562a78",
+        "html": "<p>TODO</p>",
+        "excerpt": "TODO",
+        "timeToRead": 1,
+        "tableOfContents": ""
+      },
+      "comments": { "edges": [] }
+    },
+    "pageContext": {
+      "next": {
+        "frontmatter": {
+          "path": "/mastering-paper/basics/",
+          "title": "Mastering Paper for iOS: back to the basics",
+          "authors": [{ "id": "mmistakes", "name": "Michael Rose" }],
+          "categories": ["mastering-paper"],
+          "tags": ["Paper for iOS", "tutorial", "Apple"]
+        },
+        "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/mastering-paper/basics.md"
+      },
+      "previous": null
+    }
+  }
+}
