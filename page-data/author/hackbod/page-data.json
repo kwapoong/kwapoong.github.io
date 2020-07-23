@@ -11,22 +11,22 @@
       "authorYaml": {
         "id": "hackbod",
         "name": "Dianne Hackborn",
-        "bio": "program analyst at the Office of Natural Resources Revenue",
-        "website": null
+        "bio": "A Software Engineer who sits very near the exact center of everything Android.",
+        "website": "http://www.angryredplanet.com/~hackbod/"
       },
       "allMarkdownRemark": {
         "edges": [
           {
             "node": {
-              "id": "22530d9e-f778-543a-8278-8155dce30507",
-              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC\">https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC</a></em></p>\n<p>A few days ago I wrote a post trying to correct a…</p>",
-              "timeToRead": 7,
+              "id": "09d0cdb5-b769-5b16-ac74-9ae9dffab316",
+              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s\">https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s</a></em></p>\n<p>(Edit: there have been a number of comments treating…</p>",
+              "timeToRead": 8,
               "frontmatter": {
-                "title": "How about some Android graphics true facts? (Part 2 of 2)",
+                "title": "How about some Android graphics true facts? (Part 1 of 2)",
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "date_from_now": "6 days ago",
-                "path": "/articles/android-graphics-true-facts-2/",
+                "date_from_now": "7 days ago",
+                "path": "/articles/android-graphics-true-facts-1/",
                 "author": null,
                 "excerpt": "A fantastic Google+ post by Dianne Hackborn (framework engineer on Android) explained the ins and outs of Android's hardware acceleration.",
                 "image": {
@@ -44,15 +44,15 @@
           },
           {
             "node": {
-              "id": "09d0cdb5-b769-5b16-ac74-9ae9dffab316",
-              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s\">https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s</a></em></p>\n<p>(Edit: there have been a number of comments treating…</p>",
-              "timeToRead": 8,
+              "id": "22530d9e-f778-543a-8278-8155dce30507",
+              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC\">https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC</a></em></p>\n<p>A few days ago I wrote a post trying to correct a…</p>",
+              "timeToRead": 7,
               "frontmatter": {
-                "title": "How about some Android graphics true facts? (Part 1 of 2)",
+                "title": "How about some Android graphics true facts? (Part 2 of 2)",
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "date_from_now": "6 days ago",
-                "path": "/articles/android-graphics-true-facts-1/",
+                "date_from_now": "7 days ago",
+                "path": "/articles/android-graphics-true-facts-2/",
                 "author": null,
                 "excerpt": "A fantastic Google+ post by Dianne Hackborn (framework engineer on Android) explained the ins and outs of Android's hardware acceleration.",
                 "image": {
@@ -77,7 +77,7 @@
                 "title": "How should I design my Android application?",
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "date_from_now": "6 days ago",
+                "date_from_now": "7 days ago",
                 "path": "/articles/android-system-framework-architecture/",
                 "author": null,
                 "excerpt": "A fantastic Google+ post by Dianne Hackborn (framework engineer on Android) explained the ins and outs of Android's hardware acceleration.",

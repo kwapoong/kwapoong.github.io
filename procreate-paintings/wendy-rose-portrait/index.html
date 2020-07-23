@@ -7,7 +7,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <style data-href="/styles.71468c241de6c4ff7c59.css">
+    <style data-href="/styles.394479dcb03515d7fb90.css">
       .anchor {
         margin-left: calc(-0.875em - 4px) !important;
         margin-left: calc(-1 * var(--text-sm) - 4px) !important;
@@ -26,8 +26,8 @@
       }
       .btn {
         padding: 0.5em 1em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -256,8 +256,8 @@
         width: 100%;
         margin-top: 0;
         margin-bottom: 0.5em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -329,8 +329,8 @@
         background: #d7d8da;
         background: var(--border-color);
         color: #4d4d59;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 30px;
         line-height: 0;
@@ -997,8 +997,8 @@
         width: 100%;
         color: #a9a9b3;
         background: none;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         text-align: left;
         white-space: pre;
@@ -1269,7 +1269,7 @@
         padding: 0;
         width: 40px;
         height: 20px;
-        background-color: #f2f2f2;
+        background-color: #fffff8;
         background-color: var(--theme-toggle-primary-color);
         border-radius: 20px;
         outline: 0;
@@ -1283,7 +1283,7 @@
         transition: background-color 0.5s ease;
       }
       [data-theme='dark'] .menu-module--themeToggle--2E8ye {
-        background-color: #4d4d4d;
+        background-color: #5e6168;
       }
       .menu-module--themeToggle--2E8ye:focus {
         outline: none !important;
@@ -1302,13 +1302,13 @@
         width: 20px;
         height: 20px;
         border-radius: 20px;
-        border: 2px solid #111;
+        border: 2px solid #282c35;
         border: 2px solid var(--theme-toggle-secondary-color);
         overflow: hidden;
         transition: transform 0.5s ease;
       }
       [data-theme='dark'] .menu-module--themeToggleInner--3dwRA {
-        border: 2px solid #f2f2f2;
+        border: 2px solid #fffff8;
         border: 2px solid var(--theme-toggle-primary-color);
         transform: translateX(20px);
       }
@@ -1326,7 +1326,7 @@
         height: 100%;
         left: 50%;
         float: left;
-        background-color: #111;
+        background-color: #282c35;
         background-color: var(--theme-toggle-secondary-color);
         transition: border-radius 0.5s ease, width 0.5s ease, height 0.5s ease,
           left 0.5s ease, transform 0.5s ease;
@@ -1336,7 +1336,7 @@
         width: 150%;
         height: 85%;
         left: 40%;
-        background-color: #f2f2f2;
+        background-color: #fffff8;
         background-color: var(--theme-toggle-primary-color);
         transform: translate(-10%, -40%), rotate(-35deg);
       }
@@ -1350,6 +1350,110 @@
         clip: rect(0, 0, 0, 0);
         white-space: nowrap;
         border: 0;
+      }
+      .menu-module--themeToggleButton--3S4wt {
+        margin-top: 0.46rem;
+        opacity: 0.65;
+        position: relative;
+        border-radius: 5px;
+        width: 40px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: opacity 0.3s ease;
+        border: none;
+        outline: none;
+        background: none;
+        cursor: pointer;
+        padding: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+      }
+      .menu-module--themeToggleButton--3S4wt:focus,
+      .menu-module--themeToggleButton--3S4wt:hover {
+        outline: none !important;
+        opacity: 1;
+      }
+      .menu-module--themeToggleButtonIcon--TH6jW {
+        position: relative;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        border: none;
+        background-color: transparent;
+        transform: scale(1);
+        transition: all 0.45s ease;
+        overflow: hidden;
+        box-shadow: inset 8px -8px 0 0 #282c35;
+        box-shadow: inset 8px -8px 0 0 var(--theme-toggle-secondary-color);
+      }
+      [data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW {
+        border: 4px solid #fffff8;
+        border: 4px solid var(--theme-toggle-primary-color);
+        background-color: #fffff8;
+        background-color: var(--theme-toggle-primary-color);
+        transform: scale(0.55);
+        transition: all 0.45s ease;
+        overflow: visible;
+        box-shadow: none;
+      }
+      .menu-module--themeToggleButtonIcon--TH6jW:before {
+        content: '';
+        position: absolute;
+        right: -9px;
+        top: -9px;
+        height: 24px;
+        width: 24px;
+        border: none;
+        border-radius: 50%;
+        transform: translate(0);
+        opacity: 1;
+        transition: transform 0.45s ease;
+      }
+      [data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW:before {
+        border: 2px solid #fffff8;
+        border: 2px solid var(--theme-toggle-primary-color);
+        transform: translate(14px, -14px);
+        opacity: 0;
+      }
+      .menu-module--themeToggleButtonIcon--TH6jW:after {
+        content: '';
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        margin: -4px 0 0 -4px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        box-shadow: 0 -23px 0 #282c35, 0 23px 0 #282c35, 23px 0 0 #282c35,
+          -23px 0 0 #282c35, 15px 15px 0 #282c35, -15px 15px 0 #282c35,
+          15px -15px 0 #282c35, -15px -15px 0 #282c35;
+        box-shadow: 0 -23px 0 var(--theme-toggle-secondary-color),
+          0 23px 0 var(--theme-toggle-secondary-color),
+          23px 0 0 var(--theme-toggle-secondary-color),
+          -23px 0 0 var(--theme-toggle-secondary-color),
+          15px 15px 0 var(--theme-toggle-secondary-color),
+          -15px 15px 0 var(--theme-toggle-secondary-color),
+          15px -15px 0 var(--theme-toggle-secondary-color),
+          -15px -15px 0 var(--theme-toggle-secondary-color);
+        transform: scale(0);
+        transition: all 0.35s ease;
+      }
+      [data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW:after {
+        box-shadow: 0 -23px 0 #fffff8, 0 23px 0 #fffff8, 23px 0 0 #fffff8,
+          -23px 0 0 #fffff8, 15px 15px 0 #fffff8, -15px 15px 0 #fffff8,
+          15px -15px 0 #fffff8, -15px -15px 0 #fffff8;
+        box-shadow: 0 -23px 0 var(--theme-toggle-primary-color),
+          0 23px 0 var(--theme-toggle-primary-color),
+          23px 0 0 var(--theme-toggle-primary-color),
+          -23px 0 0 var(--theme-toggle-primary-color),
+          15px 15px 0 var(--theme-toggle-primary-color),
+          -15px 15px 0 var(--theme-toggle-primary-color),
+          15px -15px 0 var(--theme-toggle-primary-color),
+          -15px -15px 0 var(--theme-toggle-primary-color);
+        transform: scale(1);
       }
       .header-module--header--tFeG9 {
         display: flex;
@@ -1602,8 +1706,8 @@
         --button-background-color: #111;
         --code-text-color: #111;
         --code-background-color: #f5f5f6;
-        --theme-toggle-primary-color: #f2f2f2;
-        --theme-toggle-secondary-color: #111;
+        --theme-toggle-primary-color: #fffff8;
+        --theme-toggle-secondary-color: #282c35;
         --facebook-color: #3b5998;
         --flickr-color: #0063dc;
         --github-color: #181717;
@@ -1633,8 +1737,8 @@
           'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
           'Segoe UI Symbol', 'Noto Color Emoji';
         --serif-font: 'Calluna', 'et-book', 'DM Serif Display', Georgia, serif;
-        --monospace-font: 'SFMono-Regular', Menlo, Monaco, Consolas, 'Fira Mono',
-          'Liberation Mono', 'Courier New', monospace;
+        --monospace-font: 'TheSansMonoCd', 'SFMono-Regular', Menlo, Monaco,
+          Consolas, 'Fira Mono', 'Liberation Mono', 'Courier New', monospace;
         --border-radius: 0.125rem;
         --global-transition: all 0.4s ease;
         --avatar-size: 30px;
@@ -1762,8 +1866,8 @@
       code,
       kbd,
       samp {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -2083,8 +2187,8 @@
       kbd,
       pre,
       samp {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
       }
       pre {
@@ -2272,8 +2376,8 @@
       .entry-module--meta--13AY1:not(:empty) {
         margin-top: 0.25em;
         margin-bottom: 0.75em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.75em;
         font-size: var(--text-xs);
@@ -2284,54 +2388,6 @@
       }
       .entry-module--meta--13AY1:not(:empty) > :not(:last-child):after {
         content: ' \B7   ';
-      }
-      .entry-module--tags--HhaLq {
-        margin-top: 0.25rem;
-      }
-      .entry-module--tags--HhaLq .entry-module--tag--2sjmD {
-        display: inline-block;
-        padding: 0.125rem 0.25rem;
-        color: #70707a;
-        color: var(--muted-text-color);
-        background-color: #f5f5f6;
-        background-color: var(--code-background-color);
-        text-decoration: none;
-        border-radius: 0.125rem;
-        border-radius: var(--border-radius);
-      }
-      .entry-module--tags--HhaLq .entry-module--tag--2sjmD:hover {
-        color: #111;
-        color: var(--code-text-color);
-      }
-      .entry-module--tags--HhaLq
-        .entry-module--tag--2sjmD
-        + .entry-module--tag--2sjmD {
-        margin-top: 0.25rem;
-        margin-left: 0.5rem;
-      }
-      .entry-module--authors--2hatv {
-        margin-bottom: 0.25rem;
-      }
-      .entry-module--authors--2hatv .entry-module--author--2GKFw {
-        display: inline-block;
-        padding: 0.125rem 0.25rem;
-        color: #70707a;
-        color: var(--muted-text-color);
-        background-color: #f5f5f6;
-        background-color: var(--code-background-color);
-        text-decoration: none;
-        border-radius: 0.125rem;
-        border-radius: var(--border-radius);
-      }
-      .entry-module--authors--2hatv .entry-module--author--2GKFw:hover {
-        color: #111;
-        color: var(--code-text-color);
-      }
-      .entry-module--authors--2hatv
-        .entry-module--author--2GKFw
-        + .entry-module--author--2GKFw {
-        margin-bottom: 0.25rem;
-        margin-left: 0.5rem;
       }
       .entry-module--excerpt--1Jg-M {
         font-size: 0.875em;
@@ -2470,8 +2526,8 @@
         }
       }
       .document-module--meta--3MKTa {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.75em;
         font-size: var(--text-xs);
@@ -2539,8 +2595,8 @@
       }
       .document-module--tocTitle--2ybLY {
         margin-bottom: 1rem;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         cursor: pointer;
       }
@@ -2717,8 +2773,8 @@
         max-width: var(--container-width);
         margin: 1rem auto;
         padding: 1em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -2763,8 +2819,8 @@
       }
       .repository-module--footer--3pX8F {
         margin-top: 0.25rem;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.75em;
         font-size: var(--text-xs);
@@ -2841,8 +2897,8 @@
       .comment-module--meta--3GQ6j {
         margin-bottom: 1em;
         padding-bottom: 0.25em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -3347,8 +3403,8 @@
         padding: 0.125rem 0.5rem;
         color: #70707a;
         color: var(--muted-text-color);
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.75em;
         font-size: var(--text-xs);
@@ -3474,8 +3530,8 @@
         width: 100%;
         margin-top: 0;
         margin-bottom: 0.5em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -3546,8 +3602,8 @@
       .comment-form-module--submit--3xEk_ {
         display: inline-block;
         padding: 1em 1.5em;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
-          Liberation Mono, Courier New, monospace;
+        font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas,
+          Fira Mono, Liberation Mono, Courier New, monospace;
         font-family: var(--monospace-font);
         font-size: 0.875em;
         font-size: var(--text-sm);
@@ -3811,7 +3867,7 @@
       sizes="512x512"
       href="/icons/icon-512x512.png?v=68d7a95c7bbe5f212fe79da70d9826f0"
     />
-    <link as="script" rel="preload" href="/commons-532bbaafa6f9ce8265d4.js" />
+    <link as="script" rel="preload" href="/commons-d30527f485d6ad96ae2d.js" />
     <link as="script" rel="preload" href="/framework-9eaab74b873b399e2c1f.js" />
     <link
       as="script"
@@ -3834,7 +3890,7 @@
     <link
       as="script"
       rel="preload"
-      href="/webpack-runtime-95b2777337eae1f2d024.js"
+      href="/webpack-runtime-df8bd7fb5c7f8011b3b4.js"
     />
     <link
       as="fetch"
@@ -3940,14 +3996,12 @@
             </nav>
             <div class="menu-module--siteControls--aku8L">
               <button
-                class="menu-module--themeToggle--2E8ye"
+                class="menu-module--themeToggleButton--3S4wt"
                 type="button"
                 aria-label="Toggle dark mode"
                 title="Toggle dark mode"
               >
-                <span class="menu-module--themeToggleInner--3dwRA"
-                  ><span class="menu-module--themeToggleIcon--2fQdu"></span
-                ></span>
+                <div class="menu-module--themeToggleButtonIcon--TH6jW"></div>
               </button>
             </div>
           </header>
@@ -4192,7 +4246,7 @@
               <a href="https://mademistakes.com" rel="nofollow"
                 >Made Mistakes</a
               >
-              • Site hosted by
+              • Site powered by
               <a href="https://pages.github.com" rel="nofollow">Github Pages</a
               >.
             </div>
@@ -4233,7 +4287,7 @@
           '/component---src-pages-faqs-index-js-49b91f762a02b4388bbe.js',
         ],
         'component---src-pages-index-js': [
-          '/component---src-pages-index-js-bcb4bc508b962f478932.js',
+          '/component---src-pages-index-js-46015b5d93c9527b6705.js',
         ],
         'component---src-pages-paperfaces-js': [
           '/component---src-pages-paperfaces-js-5487194da2122b524a6b.js',
@@ -4248,13 +4302,13 @@
           '/component---src-pages-tiny-paintings-js-1a16ee2e38727f710d38.js',
         ],
         'component---src-pages-work-js': [
-          '/component---src-pages-work-js-fe57248414d2e173a23d.js',
+          '/component---src-pages-work-js-0ddc9a9e57fb1fa4505a.js',
         ],
         'component---src-templates-authors-js': [
-          '/component---src-templates-authors-js-a5099bf7edc9b7e8118d.js',
+          '/component---src-templates-authors-js-0c50f3896ded3a409e54.js',
         ],
         'component---src-templates-categories-js': [
-          '/component---src-templates-categories-js-37703ef0ec876bfd29a0.js',
+          '/component---src-templates-categories-js-e8c45d2f831d54bc86a0.js',
         ],
         'component---src-templates-page-js': [
           '/component---src-templates-page-js-d1afc49e11b7f79b60ac.js',
@@ -4263,11 +4317,11 @@
           '/component---src-templates-post-js-aa3acdc30d12a82a1b7a.js',
         ],
         'component---src-templates-tags-js': [
-          '/component---src-templates-tags-js-e8305f4dde8310c615f7.js',
+          '/component---src-templates-tags-js-48d791270b45cb1a8f52.js',
         ],
       } /*]]>*/
     </script>
-    <script src="/webpack-runtime-95b2777337eae1f2d024.js" async=""></script>
+    <script src="/webpack-runtime-df8bd7fb5c7f8011b3b4.js" async=""></script>
     <script src="/styles-befd5c688c712b9481d4.js" async=""></script>
     <script src="/29107295-b9a0bacbb5b87e51efac.js" async=""></script>
     <script src="/app-3085f58554d12342fe1d.js" async=""></script>
@@ -4284,6 +4338,6 @@
       async=""
     ></script>
     <script src="/framework-9eaab74b873b399e2c1f.js" async=""></script>
-    <script src="/commons-532bbaafa6f9ce8265d4.js" async=""></script>
+    <script src="/commons-d30527f485d6ad96ae2d.js" async=""></script>
   </body>
 </html>

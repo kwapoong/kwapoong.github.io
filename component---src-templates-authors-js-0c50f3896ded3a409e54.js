@@ -6,10 +6,6 @@
         entry: 'entry-module--entry--22LZB',
         title: 'entry-module--title--3Yzff',
         meta: 'entry-module--meta--13AY1',
-        tags: 'entry-module--tags--HhaLq',
-        tag: 'entry-module--tag--2sjmD',
-        authors: 'entry-module--authors--2hatv',
-        author: 'entry-module--author--2GKFw',
         excerpt: 'entry-module--excerpt--1Jg-M',
         cover: 'entry-module--cover--uvbo5',
         grain: 'entry-module--grain--QUP2_',
@@ -22,53 +18,53 @@
       'use strict'
       var n = a('FdF9'),
         l = a('Wbzz'),
-        r = a('QS5V'),
-        i = a.n(r)
+        i = a('QS5V'),
+        r = a.n(i)
       t.a = function (e) {
         var t = e.nextPath,
           a = e.previousPath,
-          r = e.nextLabel,
+          i = e.nextLabel,
           m = e.previousLabel
         return a || t
           ? n.default.createElement(
               'nav',
-              { className: i.a.pagination },
+              { className: r.a.pagination },
               a
                 ? n.default.createElement(
                     l.Link,
-                    { to: a, rel: 'prev', className: i.a.item },
+                    { to: a, rel: 'prev', className: r.a.item },
                     n.default.createElement(
                       'span',
-                      { className: i.a.iconPrev },
+                      { className: r.a.iconPrev },
                       '←'
                     ),
                     n.default.createElement(
                       'span',
-                      { className: i.a.itemText },
+                      { className: r.a.itemText },
                       m
                     )
                   )
-                : n.default.createElement('div', { className: i.a.item }),
+                : n.default.createElement('div', { className: r.a.item }),
               t
                 ? n.default.createElement(
                     l.Link,
                     {
                       to: t,
                       rel: 'next',
-                      className: i.a.item + ' ' + i.a.itemRight,
+                      className: r.a.item + ' ' + r.a.itemRight,
                     },
                     n.default.createElement(
                       'span',
-                      { className: i.a.itemText },
-                      r
+                      { className: r.a.itemText },
+                      i
                     ),
                     n.default.createElement(
                       'span',
-                      { className: i.a.iconNext },
+                      { className: r.a.iconNext },
                       '→'
                     )
                   )
-                : n.default.createElement('div', { className: i.a.item })
+                : n.default.createElement('div', { className: r.a.item })
             )
           : null
       }
@@ -114,19 +110,19 @@
       'use strict'
       var n = a('FdF9'),
         l = a('Wbzz'),
-        r = a('9eSz'),
-        i = a.n(r),
+        i = a('9eSz'),
+        r = a.n(i),
         m = a('0TdT'),
         o = a.n(m)
       a('zvvp')
       t.a = function (e) {
         var t = e.title,
           a = (e.authors, e.date),
-          r = e.datePretty,
+          i = e.datePretty,
           m = e.path,
           u = e.image,
-          d = (e.author, e.timeToRead),
-          c = e.excerpt
+          c = (e.author, e.timeToRead),
+          d = e.excerpt
         e.tags
         return n.default.createElement(
           n.default.Fragment,
@@ -150,10 +146,10 @@
                   n.default.createElement(
                     'time',
                     { className: o.a.date + ' dt-published', dateTime: a },
-                    r
+                    i
                   )
                 ),
-              d &&
+              c &&
                 n.default.createElement(
                   n.default.Fragment,
                   null,
@@ -161,20 +157,20 @@
                   n.default.createElement(
                     'span',
                     { className: o.a.readTime },
-                    d,
+                    c,
                     ' min read'
                   )
                 )
             ),
             u &&
-              n.default.createElement(i.a, {
+              n.default.createElement(r.a, {
                 fluid: u.childImageSharp.fluid,
                 className: o.a.cover,
                 backgroundColor: 'var(--input-background-color)',
               }),
             n.default.createElement('div', {
               className: o.a.excerpt + ' p-summary',
-              dangerouslySetInnerHTML: { __html: c },
+              dangerouslySetInnerHTML: { __html: d },
             })
           )
         )
@@ -189,96 +185,96 @@
       a('pJf4')
       var n = a('FdF9'),
         l = a('jNNy'),
-        r = a('Bl7J'),
-        i = a('mTGK'),
+        i = a('Bl7J'),
+        r = a('mTGK'),
         m = a('3CW5'),
         o = a('KYHh'),
         u = a.n(o),
-        d = a('5LqB'),
-        c = a.n(d),
+        c = a('5LqB'),
+        d = a.n(c),
         s = a('zvvp'),
         p = '881807161'
       t.default = function (e) {
         var t = e.data,
           a = e.pageContext,
           o = a.nextPagePath,
-          d = a.previousPagePath,
+          c = a.previousPagePath,
           p = a.humanPageNumber,
-          h = a.numberOfPages,
-          f = a.author,
-          g = t.site.siteMetadata.author,
-          v = t.authorYaml,
-          E = v.name,
-          N = v.bio,
+          f = a.numberOfPages,
+          h = a.author,
+          v = t.site.siteMetadata.author,
+          g = t.authorYaml,
+          E = g.name,
+          N = g.bio,
           x = t.allMarkdownRemark.edges,
-          y = 1 === p ? '' : ' - Page ' + p + ' of ' + h,
+          y = 1 === p ? '' : ' - Page ' + p + ' of ' + f,
           L = u.a.image
         return n.default.createElement(
-          r.a,
+          i.a,
           null,
           n.default.createElement(l.a, {
             title: '' + E + y + ' - ' + u.a.title,
-            path: '/author/' + s.slugify(f) + '/',
+            path: '/author/' + s.slugify(h) + '/',
             description: 'An archive of posts written by ' + E + '.',
             metaImage: L,
           }),
           n.default.createElement(
             'main',
-            { id: 'main', className: c.a.main },
+            { id: 'main', className: d.a.main },
             n.default.createElement(
               'div',
-              { className: c.a.title },
+              { className: d.a.title },
               n.default.createElement(
                 'h1',
-                { className: c.a.heading },
+                { className: d.a.heading },
                 n.default.createElement('span', null, E, ' ', y)
               ),
               n.default.createElement('h2', null, x.length),
               N &&
                 1 === p &&
                 n.default.createElement('div', {
-                  className: c.a.intro,
+                  className: d.a.intro,
                   dangerouslySetInnerHTML: { __html: N },
                 })
             ),
             n.default.createElement(
               'div',
-              { className: c.a.content },
+              { className: d.a.content },
               n.default.createElement(
                 'div',
-                { className: c.a.list },
+                { className: d.a.list },
                 x.map(function (e) {
                   var t = e.node,
                     a = t.id,
                     l = t.excerpt,
-                    r = t.timeToRead,
+                    i = t.timeToRead,
                     m = t.frontmatter,
                     o = m.title,
                     u = m.date,
-                    d = m.date_pretty,
-                    c = m.path,
+                    c = m.date_pretty,
+                    d = m.path,
                     s = m.author,
                     p = m.authors,
-                    h = m.image,
-                    f = m.excerpt
-                  return n.default.createElement(i.a, {
+                    f = m.image,
+                    h = m.excerpt
+                  return n.default.createElement(r.a, {
                     key: a,
                     title: o,
                     date: u,
-                    datePretty: d,
-                    path: c,
-                    author: s || g,
+                    datePretty: c,
+                    path: d,
+                    author: s || v,
                     authors: p,
-                    timeToRead: r,
-                    image: h,
-                    excerpt: f || l,
+                    timeToRead: i,
+                    image: f,
+                    excerpt: h || l,
                   })
                 })
               )
             )
           ),
           n.default.createElement(m.a, {
-            previousPath: d,
+            previousPath: c,
             previousLabel: 'Newer posts',
             nextPath: o,
             nextLabel: 'Older posts',
@@ -288,4 +284,4 @@
     },
   },
 ])
-//# sourceMappingURL=component---src-templates-authors-js-a5099bf7edc9b7e8118d.js.map
+//# sourceMappingURL=component---src-templates-authors-js-0c50f3896ded3a409e54.js.map

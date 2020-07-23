@@ -19,17 +19,17 @@
         "edges": [
           {
             "node": {
-              "id": "fc494ff7-2c43-5197-84bb-ae3cd8193e58",
-              "excerpt": "<p><em>Original published at <a href=\"https://www.internalpointers.com/post/squash-commits-into-one-git\">https://www.internalpointers.com/post/squash-commits-into-one-git</a></em></p>\n<p>In Git you can merge several commits into one with…</p>",
-              "timeToRead": 4,
+              "id": "16543673-fe34-5b04-b74c-a84cac2a8f1d",
+              "excerpt": "<p>Removing a submodule is useful when it is no longer required. The steps<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup> below outline the removal of a submodule:</p>\n<ul>\n<li>Delete the section referring to the submodule from the <code class=\"language-text\">.gitmodules</code> file</li>\n<li>Stage the changes via <code class=\"language-text\">git add .gitmodules</code></li>\n<li>Delete the relevant section of the submodule from <code class=\"language-text\">.git/config</code>.</li>\n<li>Run <code class=\"language-text\">git rm --cached path_to_submodule</code>…</li></ul>",
+              "timeToRead": 1,
               "frontmatter": {
-                "title": "Squash commits into one with Git",
+                "title": "How to Remove a Submodule in Git",
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "date_from_now": "6 days ago",
-                "path": "/notes/squash-commits-into-one-with-git/",
+                "date_from_now": "7 days ago",
+                "path": "/notes/how-to-remove-a-submodule-in-git/",
                 "author": null,
-                "excerpt": "A nice way to group some changes together, especially before sharing them with others.",
+                "excerpt": "Removing a submodule is useful when it is no longer required. The steps below outline the removal of a submodule.",
                 "categories": ["notes"],
                 "image": {
                   "childImageSharp": {
@@ -46,17 +46,17 @@
           },
           {
             "node": {
-              "id": "16543673-fe34-5b04-b74c-a84cac2a8f1d",
-              "excerpt": "<p>Removing a submodule is useful when it is no longer required. The steps<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup> below outline the removal of a submodule:</p>\n<ul>\n<li>Delete the section referring to the submodule from the <code class=\"language-text\">.gitmodules</code> file</li>\n<li>Stage the changes via <code class=\"language-text\">git add .gitmodules</code></li>\n<li>Delete the relevant section of the submodule from <code class=\"language-text\">.git/config</code>.</li>\n<li>Run <code class=\"language-text\">git rm --cached path_to_submodule</code>…</li></ul>",
-              "timeToRead": 1,
+              "id": "fc494ff7-2c43-5197-84bb-ae3cd8193e58",
+              "excerpt": "<p><em>Original published at <a href=\"https://www.internalpointers.com/post/squash-commits-into-one-git\">https://www.internalpointers.com/post/squash-commits-into-one-git</a></em></p>\n<p>In Git you can merge several commits into one with…</p>",
+              "timeToRead": 4,
               "frontmatter": {
-                "title": "How to Remove a Submodule in Git",
+                "title": "Squash commits into one with Git",
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "date_from_now": "6 days ago",
-                "path": "/notes/how-to-remove-a-submodule-in-git/",
+                "date_from_now": "7 days ago",
+                "path": "/notes/squash-commits-into-one-with-git/",
                 "author": null,
-                "excerpt": "Removing a submodule is useful when it is no longer required. The steps below outline the removal of a submodule.",
+                "excerpt": "A nice way to group some changes together, especially before sharing them with others.",
                 "categories": ["notes"],
                 "image": {
                   "childImageSharp": {

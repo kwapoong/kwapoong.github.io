@@ -5,9 +5,9 @@
     "app": {
       "chunks": [22, 0, 21, 6],
       "assets": [
-        "webpack-runtime-95b2777337eae1f2d024.js",
-        "webpack-runtime-95b2777337eae1f2d024.js.map",
-        "styles.71468c241de6c4ff7c59.css",
+        "webpack-runtime-df8bd7fb5c7f8011b3b4.js",
+        "webpack-runtime-df8bd7fb5c7f8011b3b4.js.map",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "framework-9eaab74b873b399e2c1f.js",
@@ -21,11 +21,11 @@
     "component---src-pages-404-js": {
       "chunks": [0, 1, 7],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "component---src-pages-404-js-03d60ef696848a5e0302.js",
         "component---src-pages-404-js-03d60ef696848a5e0302.js.map"
       ],
@@ -35,13 +35,13 @@
     "component---src-pages-author-js": {
       "chunks": [0, 3, 1, 4, 8],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
         "component---src-pages-author-js-3a523168b314f35754a4.js",
@@ -53,11 +53,11 @@
     "component---src-pages-faqs-index-js": {
       "chunks": [0, 1, 9],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "component---src-pages-faqs-index-js-49b91f762a02b4388bbe.js",
         "component---src-pages-faqs-index-js-49b91f762a02b4388bbe.js.map"
       ],
@@ -67,19 +67,19 @@
     "component---src-pages-index-js": {
       "chunks": [0, 3, 1, 2, 4, 10],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
-        "component---src-pages-index-js-bcb4bc508b962f478932.js",
-        "component---src-pages-index-js-bcb4bc508b962f478932.js.map"
+        "component---src-pages-index-js-46015b5d93c9527b6705.js",
+        "component---src-pages-index-js-46015b5d93c9527b6705.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -87,11 +87,11 @@
     "component---src-pages-paperfaces-js": {
       "chunks": [0, 1, 2, 5, 11],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
@@ -105,11 +105,11 @@
     "component---src-pages-procreate-paintings-js": {
       "chunks": [0, 1, 2, 5, 12],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
@@ -123,13 +123,13 @@
     "component---src-pages-tag-js": {
       "chunks": [0, 3, 1, 4, 13],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
         "component---src-pages-tag-js-ecc2beea9de80ffb407c.js",
@@ -141,11 +141,11 @@
     "component---src-pages-tiny-paintings-js": {
       "chunks": [0, 1, 2, 5, 14],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
@@ -159,19 +159,19 @@
     "component---src-pages-work-js": {
       "chunks": [0, 3, 1, 2, 4, 15],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
-        "component---src-pages-work-js-fe57248414d2e173a23d.js",
-        "component---src-pages-work-js-fe57248414d2e173a23d.js.map"
+        "component---src-pages-work-js-0ddc9a9e57fb1fa4505a.js",
+        "component---src-pages-work-js-0ddc9a9e57fb1fa4505a.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -179,19 +179,19 @@
     "component---src-templates-authors-js": {
       "chunks": [0, 3, 1, 2, 4, 16],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
-        "component---src-templates-authors-js-a5099bf7edc9b7e8118d.js",
-        "component---src-templates-authors-js-a5099bf7edc9b7e8118d.js.map"
+        "component---src-templates-authors-js-0c50f3896ded3a409e54.js",
+        "component---src-templates-authors-js-0c50f3896ded3a409e54.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -199,19 +199,19 @@
     "component---src-templates-categories-js": {
       "chunks": [0, 3, 1, 2, 4, 17],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
-        "component---src-templates-categories-js-37703ef0ec876bfd29a0.js",
-        "component---src-templates-categories-js-37703ef0ec876bfd29a0.js.map"
+        "component---src-templates-categories-js-e8c45d2f831d54bc86a0.js",
+        "component---src-templates-categories-js-e8c45d2f831d54bc86a0.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -219,13 +219,13 @@
     "component---src-templates-page-js": {
       "chunks": [0, 3, 1, 2, 4, 18],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
@@ -239,13 +239,13 @@
     "component---src-templates-post-js": {
       "chunks": [0, 3, 1, 2, 4, 19],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
@@ -259,19 +259,19 @@
     "component---src-templates-tags-js": {
       "chunks": [0, 3, 1, 2, 4, 20],
       "assets": [
-        "styles.71468c241de6c4ff7c59.css",
+        "styles.394479dcb03515d7fb90.css",
         "styles-befd5c688c712b9481d4.js",
         "styles-befd5c688c712b9481d4.js.map",
         "29107295-b9a0bacbb5b87e51efac.js",
         "29107295-b9a0bacbb5b87e51efac.js.map",
-        "commons-532bbaafa6f9ce8265d4.js",
-        "commons-532bbaafa6f9ce8265d4.js.map",
+        "commons-d30527f485d6ad96ae2d.js",
+        "commons-d30527f485d6ad96ae2d.js.map",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
         "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js.map",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
         "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js.map",
-        "component---src-templates-tags-js-e8305f4dde8310c615f7.js",
-        "component---src-templates-tags-js-e8305f4dde8310c615f7.js.map"
+        "component---src-templates-tags-js-48d791270b45cb1a8f52.js",
+        "component---src-templates-tags-js-48d791270b45cb1a8f52.js.map"
       ],
       "children": {},
       "childAssets": {}
@@ -279,126 +279,126 @@
   },
   "assetsByChunkName": {
     "app": [
-      "webpack-runtime-95b2777337eae1f2d024.js",
-      "styles.71468c241de6c4ff7c59.css",
+      "webpack-runtime-df8bd7fb5c7f8011b3b4.js",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "framework-9eaab74b873b399e2c1f.js",
       "app-3085f58554d12342fe1d.js"
     ],
     "component---src-pages-404-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "component---src-pages-404-js-03d60ef696848a5e0302.js"
     ],
     "component---src-pages-author-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
       "component---src-pages-author-js-3a523168b314f35754a4.js"
     ],
     "component---src-pages-faqs-index-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "component---src-pages-faqs-index-js-49b91f762a02b4388bbe.js"
     ],
     "component---src-pages-index-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
-      "component---src-pages-index-js-bcb4bc508b962f478932.js"
+      "component---src-pages-index-js-46015b5d93c9527b6705.js"
     ],
     "component---src-pages-paperfaces-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
       "component---src-pages-paperfaces-js-5487194da2122b524a6b.js"
     ],
     "component---src-pages-procreate-paintings-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
       "component---src-pages-procreate-paintings-js-5dcde8fef920f1d207ae.js"
     ],
     "component---src-pages-tag-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
       "component---src-pages-tag-js-ecc2beea9de80ffb407c.js"
     ],
     "component---src-pages-tiny-paintings-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "19a0d21202e375a596c2c165630fd41c4d72610f-8c2fb2e3cac9ff45271e.js",
       "component---src-pages-tiny-paintings-js-1a16ee2e38727f710d38.js"
     ],
     "component---src-pages-work-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
-      "component---src-pages-work-js-fe57248414d2e173a23d.js"
+      "component---src-pages-work-js-0ddc9a9e57fb1fa4505a.js"
     ],
     "component---src-templates-authors-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
-      "component---src-templates-authors-js-a5099bf7edc9b7e8118d.js"
+      "component---src-templates-authors-js-0c50f3896ded3a409e54.js"
     ],
     "component---src-templates-categories-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
-      "component---src-templates-categories-js-37703ef0ec876bfd29a0.js"
+      "component---src-templates-categories-js-e8c45d2f831d54bc86a0.js"
     ],
     "component---src-templates-page-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
       "component---src-templates-page-js-d1afc49e11b7f79b60ac.js"
     ],
     "component---src-templates-post-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
       "component---src-templates-post-js-aa3acdc30d12a82a1b7a.js"
     ],
     "component---src-templates-tags-js": [
-      "styles.71468c241de6c4ff7c59.css",
+      "styles.394479dcb03515d7fb90.css",
       "styles-befd5c688c712b9481d4.js",
       "29107295-b9a0bacbb5b87e51efac.js",
-      "commons-532bbaafa6f9ce8265d4.js",
+      "commons-d30527f485d6ad96ae2d.js",
       "ca78671f27f88acf7993f64b80bec989e61cdb7c-a55d8cf9f4152aca4322.js",
       "e62b4742e394b485004b667a39b17f82ea6112ef-d8c37af88bc50ccec2bc.js",
-      "component---src-templates-tags-js-e8305f4dde8310c615f7.js"
+      "component---src-templates-tags-js-48d791270b45cb1a8f52.js"
     ]
   }
 }

@@ -6,10 +6,6 @@
         entry: 'entry-module--entry--22LZB',
         title: 'entry-module--title--3Yzff',
         meta: 'entry-module--meta--13AY1',
-        tags: 'entry-module--tags--HhaLq',
-        tag: 'entry-module--tag--2sjmD',
-        authors: 'entry-module--authors--2hatv',
-        author: 'entry-module--author--2GKFw',
         excerpt: 'entry-module--excerpt--1Jg-M',
         cover: 'entry-module--cover--uvbo5',
         grain: 'entry-module--grain--QUP2_',
@@ -136,26 +132,26 @@
           d = u.nextPagePath,
           p = u.previousPagePath,
           g = u.humanPageNumber,
-          h = u.numberOfPages,
-          v = u.category,
+          v = u.numberOfPages,
+          h = u.category,
           E = a.site.siteMetadata.author,
           N = a.taxonomyYaml,
-          y = N.name,
+          x = N.name,
           L = N.excerpt,
-          x = N.html,
+          y = N.html,
           b = a.allMarkdownRemark,
           P = b.group,
           T = b.edges,
-          w = 1 === g ? '' : ' - Page ' + g + ' of ' + h,
-          k = c.a.image
+          k = 1 === g ? '' : ' - Page ' + g + ' of ' + v,
+          w = c.a.image
         return l.default.createElement(
           i.a,
           null,
           l.default.createElement(r.a, {
-            title: '' + y + w + ' - ' + c.a.title,
-            path: '/' + f.slugify(v) + '/',
-            description: L || 'An archive of posts related to ' + y + '.',
-            metaImage: k,
+            title: '' + x + k + ' - ' + c.a.title,
+            path: '/' + f.slugify(h) + '/',
+            description: L || 'An archive of posts related to ' + x + '.',
+            metaImage: w,
           }),
           l.default.createElement(
             'main',
@@ -166,13 +162,13 @@
               l.default.createElement(
                 'h1',
                 { className: s.a.heading },
-                l.default.createElement('span', null, y, ' ', w)
+                l.default.createElement('span', null, x, ' ', k)
               ),
-              x &&
+              y &&
                 1 === g &&
                 l.default.createElement('div', {
                   className: s.a.intro,
-                  dangerouslySetInnerHTML: { __html: x },
+                  dangerouslySetInnerHTML: { __html: y },
                 })
             ),
             l.default.createElement(
@@ -329,4 +325,4 @@
     },
   },
 ])
-//# sourceMappingURL=component---src-templates-categories-js-37703ef0ec876bfd29a0.js.map
+//# sourceMappingURL=component---src-templates-categories-js-e8c45d2f831d54bc86a0.js.map

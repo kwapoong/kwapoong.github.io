@@ -8,7 +8,10 @@
           { "id": "tonykwok", "name": "Tony Guo" },
           { "id": "mmistakes", "name": "Michael Rose" },
           { "id": "hackbod", "name": "Dianne Hackborn" },
-          { "id": "triangles", "name": "Triangles" }
+          { "id": "triangles", "name": "Triangles" },
+          { "id": "romainguy", "name": "Romain Guy" },
+          { "id": "chethaase", "name": "Chet Haase" },
+          { "id": "cyrilmottier", "name": "Cyril Mottier" }
         ]
       },
       "allMarkdownRemark": {

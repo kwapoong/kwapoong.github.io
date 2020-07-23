@@ -9,7 +9,7 @@
           "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
           "date": "2020-07-16T00:00:00.000Z",
           "date_pretty": "July 16th, 2020",
-          "date_from_now": "6 days ago",
+          "date_from_now": "7 days ago",
           "last_modified_at": null,
           "last_modified_at_from_now": null,
           "path": "/articles/android-graphics-true-facts-1/",
@@ -47,6 +47,16 @@
     "pageContext": {
       "next": {
         "frontmatter": {
+          "path": "/notes/squash-commits-into-one-with-git/",
+          "title": "Squash commits into one with Git",
+          "authors": [{ "id": "triangles", "name": "Triangles" }],
+          "categories": ["notes"],
+          "tags": ["Git"]
+        },
+        "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/notes/squash-commits-into-one-with-git.md"
+      },
+      "previous": {
+        "frontmatter": {
           "path": "/articles/android-graphics-true-facts-2/",
           "title": "How about some Android graphics true facts? (Part 2 of 2)",
           "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
@@ -54,16 +64,6 @@
           "tags": ["Android", "Graphics"]
         },
         "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/articles/How-about-some-Android-graphics-true-facts-continued.md"
-      },
-      "previous": {
-        "frontmatter": {
-          "path": "/articles/android-system-framework-architecture/",
-          "title": "How should I design my Android application?",
-          "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
-          "categories": ["articles"],
-          "tags": ["Android"]
-        },
-        "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/articles/How-should-I-design-my-Android-application.md"
       }
     }
   }

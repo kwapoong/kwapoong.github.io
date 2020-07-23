@@ -12,34 +12,6 @@
         "edges": [
           {
             "node": {
-              "id": "fc494ff7-2c43-5197-84bb-ae3cd8193e58",
-              "excerpt": "<p><em>Original published at <a href=\"https://www.internalpointers.com/post/squash-commits-into-one-git\">https://www.internalpointers.com/post/squash-commits-into-one-git</a></em></p>\n<p>In Git you can merge several commits into one with…</p>",
-              "timeToRead": 4,
-              "frontmatter": {
-                "title": "Squash commits into one with Git",
-                "authors": [{ "id": "triangles", "name": "Triangles" }],
-                "date": "2020-07-16T00:00:00.000Z",
-                "date_pretty": "July 16th, 2020",
-                "path": "/notes/squash-commits-into-one-with-git/",
-                "excerpt": "A nice way to group some changes together, especially before sharing them with others.",
-                "featured": true,
-                "categories": ["notes"],
-                "tags": ["Git"],
-                "image": {
-                  "childImageSharp": {
-                    "fluid": {
-                      "aspectRatio": 1.7857142857142858,
-                      "src": "/static/846ec3be36827113b49d2bd227433386/9f2d5/git-tips-and-tricks.png",
-                      "srcSet": "/static/846ec3be36827113b49d2bd227433386/91db1/git-tips-and-tricks.png 100w,\n/static/846ec3be36827113b49d2bd227433386/dc47e/git-tips-and-tricks.png 200w,\n/static/846ec3be36827113b49d2bd227433386/9f2d5/git-tips-and-tricks.png 400w,\n/static/846ec3be36827113b49d2bd227433386/fa42c/git-tips-and-tricks.png 600w,\n/static/846ec3be36827113b49d2bd227433386/90823/git-tips-and-tricks.png 800w,\n/static/846ec3be36827113b49d2bd227433386/4ce6a/git-tips-and-tricks.png 1920w",
-                      "sizes": "(max-width: 400px) 100vw, 400px"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          {
-            "node": {
               "id": "16543673-fe34-5b04-b74c-a84cac2a8f1d",
               "excerpt": "<p>Removing a submodule is useful when it is no longer required. The steps<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup> below outline the removal of a submodule:</p>\n<ul>\n<li>Delete the section referring to the submodule from the <code class=\"language-text\">.gitmodules</code> file</li>\n<li>Stage the changes via <code class=\"language-text\">git add .gitmodules</code></li>\n<li>Delete the relevant section of the submodule from <code class=\"language-text\">.git/config</code>.</li>\n<li>Run <code class=\"language-text\">git rm --cached path_to_submodule</code>…</li></ul>",
               "timeToRead": 1,
@@ -68,15 +40,43 @@
           },
           {
             "node": {
-              "id": "22530d9e-f778-543a-8278-8155dce30507",
-              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC\">https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC</a></em></p>\n<p>A few days ago I wrote a post trying to correct a…</p>",
-              "timeToRead": 7,
+              "id": "fc494ff7-2c43-5197-84bb-ae3cd8193e58",
+              "excerpt": "<p><em>Original published at <a href=\"https://www.internalpointers.com/post/squash-commits-into-one-git\">https://www.internalpointers.com/post/squash-commits-into-one-git</a></em></p>\n<p>In Git you can merge several commits into one with…</p>",
+              "timeToRead": 4,
               "frontmatter": {
-                "title": "How about some Android graphics true facts? (Part 2 of 2)",
+                "title": "Squash commits into one with Git",
+                "authors": [{ "id": "triangles", "name": "Triangles" }],
+                "date": "2020-07-16T00:00:00.000Z",
+                "date_pretty": "July 16th, 2020",
+                "path": "/notes/squash-commits-into-one-with-git/",
+                "excerpt": "A nice way to group some changes together, especially before sharing them with others.",
+                "featured": true,
+                "categories": ["notes"],
+                "tags": ["Git"],
+                "image": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "aspectRatio": 1.7857142857142858,
+                      "src": "/static/846ec3be36827113b49d2bd227433386/9f2d5/git-tips-and-tricks.png",
+                      "srcSet": "/static/846ec3be36827113b49d2bd227433386/91db1/git-tips-and-tricks.png 100w,\n/static/846ec3be36827113b49d2bd227433386/dc47e/git-tips-and-tricks.png 200w,\n/static/846ec3be36827113b49d2bd227433386/9f2d5/git-tips-and-tricks.png 400w,\n/static/846ec3be36827113b49d2bd227433386/fa42c/git-tips-and-tricks.png 600w,\n/static/846ec3be36827113b49d2bd227433386/90823/git-tips-and-tricks.png 800w,\n/static/846ec3be36827113b49d2bd227433386/4ce6a/git-tips-and-tricks.png 1920w",
+                      "sizes": "(max-width: 400px) 100vw, 400px"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "09d0cdb5-b769-5b16-ac74-9ae9dffab316",
+              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s\">https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s</a></em></p>\n<p>(Edit: there have been a number of comments treating…</p>",
+              "timeToRead": 8,
+              "frontmatter": {
+                "title": "How about some Android graphics true facts? (Part 1 of 2)",
                 "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "path": "/articles/android-graphics-true-facts-2/",
+                "path": "/articles/android-graphics-true-facts-1/",
                 "excerpt": "A fantastic Google+ post by Dianne Hackborn (framework engineer on Android) explained the ins and outs of Android's hardware acceleration.",
                 "featured": true,
                 "categories": ["articles"],
@@ -96,15 +96,15 @@
           },
           {
             "node": {
-              "id": "09d0cdb5-b769-5b16-ac74-9ae9dffab316",
-              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s\">https://plus.google.com/105051985738280261832/posts/2FXDCz8x93s</a></em></p>\n<p>(Edit: there have been a number of comments treating…</p>",
-              "timeToRead": 8,
+              "id": "22530d9e-f778-543a-8278-8155dce30507",
+              "excerpt": "<p><em>Original published at <a href=\"https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC\">https://plus.google.com/u/0/105051985738280261832/posts/XAZ4CeVP6DC</a></em></p>\n<p>A few days ago I wrote a post trying to correct a…</p>",
+              "timeToRead": 7,
               "frontmatter": {
-                "title": "How about some Android graphics true facts? (Part 1 of 2)",
+                "title": "How about some Android graphics true facts? (Part 2 of 2)",
                 "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
                 "date": "2020-07-16T00:00:00.000Z",
                 "date_pretty": "July 16th, 2020",
-                "path": "/articles/android-graphics-true-facts-1/",
+                "path": "/articles/android-graphics-true-facts-2/",
                 "excerpt": "A fantastic Google+ post by Dianne Hackborn (framework engineer on Android) explained the ins and outs of Android's hardware acceleration.",
                 "featured": true,
                 "categories": ["articles"],

@@ -6,10 +6,6 @@
         entry: 'entry-module--entry--22LZB',
         title: 'entry-module--title--3Yzff',
         meta: 'entry-module--meta--13AY1',
-        tags: 'entry-module--tags--HhaLq',
-        tag: 'entry-module--tag--2sjmD',
-        authors: 'entry-module--authors--2hatv',
-        author: 'entry-module--author--2GKFw',
         excerpt: 'entry-module--excerpt--1Jg-M',
         cover: 'entry-module--cover--uvbo5',
         grain: 'entry-module--grain--QUP2_',
@@ -113,7 +109,7 @@
                     h = d.author,
                     f = d.authors,
                     g = d.excerpt,
-                    v = d.image
+                    E = d.image
                   return l.default.createElement(i.a, {
                     key: r,
                     title: s,
@@ -123,7 +119,7 @@
                     authors: f,
                     author: h || a,
                     timeToRead: o,
-                    image: v,
+                    image: E,
                     excerpt: g || n,
                     tags: p,
                   })
@@ -347,4 +343,4 @@
     },
   },
 ])
-//# sourceMappingURL=component---src-pages-index-js-bcb4bc508b962f478932.js.map
+//# sourceMappingURL=component---src-pages-index-js-46015b5d93c9527b6705.js.map

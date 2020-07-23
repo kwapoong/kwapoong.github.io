@@ -43,8 +43,8 @@
           '--button-background-color': '#111',
           '--code-text-color': '#111',
           '--code-background-color': '#f5f5f6',
-          '--theme-toggle-primary-color': '#f2f2f2',
-          '--theme-toggle-secondary-color': '#111',
+          '--theme-toggle-primary-color': '#fffff8',
+          '--theme-toggle-secondary-color': '#282c35',
           '--facebook-color': '#3b5998',
           '--flickr-color': '#0063dc',
           '--github-color': '#181717',
@@ -74,7 +74,7 @@
           '--serif-font':
             "'Calluna', 'et-book', 'DM Serif Display', Georgia, serif",
           '--monospace-font':
-            "\"SFMono-Regular\", Menlo, Monaco, Consolas, 'Fira Mono', 'Liberation Mono', 'Courier New',\n    monospace",
+            "\"TheSansMonoCd\", \"SFMono-Regular\", Menlo, Monaco, Consolas, 'Fira Mono', 'Liberation Mono', 'Courier New',\n    monospace",
           '--border-radius': '0.125rem',
           '--global-transition': 'all 0.4s ease',
           '--avatar-size': '30px',
@@ -198,7 +198,7 @@
     },
     '8Ihl': function (e) {
       e.exports = JSON.parse(
-        '{"data":{"site":{"buildTime":"2020-07-22","siteMetadata":{"siteUrl":"https://kwapoong.github.io","defaultTitle":"Reisen","defaultDescription":"Things I\'ve Found on the Way Getting There","defaultBanner":{"src":"/images/made-mistakes-logo.png"},"siteLanguage":"en","ogLanguage":"en_US","pingbackUrl":"https://webmention.io/mademistakes.com/xmlrpc","webmentionUrl":"https://webmention.io/mademistakes.com/webmention","micropubUrl":"https://mm-micropub-to-github.herokuapp.com/micropub/main","coilUrl":"$coil.xrptipbot.com/AbwB-yidQNanSI2lYyTJJw","author":{"name":"Tony Guo","url":"https://kwapoong.github.io"},"twitter":"@kwapoong","facebook":"kwapoong"}}}}'
+        '{"data":{"site":{"buildTime":"2020-07-23","siteMetadata":{"siteUrl":"https://kwapoong.github.io","defaultTitle":"Reisen","defaultDescription":"Things I\'ve Found on the Way Getting There","defaultBanner":{"src":"/images/made-mistakes-logo.png"},"siteLanguage":"en","ogLanguage":"en_US","pingbackUrl":"https://webmention.io/mademistakes.com/xmlrpc","webmentionUrl":"https://webmention.io/mademistakes.com/webmention","micropubUrl":"https://mm-micropub-to-github.herokuapp.com/micropub/main","coilUrl":"$coil.xrptipbot.com/AbwB-yidQNanSI2lYyTJJw","author":{"name":"Tony Guo","url":"https://kwapoong.github.io"},"twitter":"@kwapoong","facebook":"kwapoong"}}}}'
       )
     },
     Bl7J: function (e, t, n) {
@@ -294,19 +294,15 @@
               a.default.createElement(
                 'button',
                 {
-                  className: d.a.themeToggle,
+                  className: d.a.themeToggleButton,
                   onClick: n,
                   type: 'button',
                   'aria-label': 'Toggle dark mode',
                   title: 'Toggle dark mode',
                 },
-                a.default.createElement(
-                  'span',
-                  { className: d.a.themeToggleInner },
-                  a.default.createElement('span', {
-                    className: d.a.themeToggleIcon,
-                  })
-                )
+                a.default.createElement('div', {
+                  className: d.a.themeToggleButtonIcon,
+                })
               )
             )
           )
@@ -668,7 +664,7 @@
         githubUrl: 'https://github.com/kwapoong',
         instagramUrl: 'https://www.instagram.com/kwapoong/',
         feedUrl: '/atom.xml',
-        githubApiToken: '02d3163a50cabd3563c8177849758df94e92ccef',
+        githubApiToken: '747f002583b7d609e18f06c2f5f1d7d2dc4cb50f',
         githubApiQuery:
           'query ($number_of_repos: Int!) {\n    viewer {\n      name\n      avatarUrl\n      isHireable\n      resourcePath\n      repositories(last: $number_of_repos, privacy: PUBLIC, orderBy: { field: STARGAZERS, direction:ASC } ) {\n        nodes {\n          name\n          description\n          homepageUrl\n          forkCount\n          createdAt\n          updatedAt\n          resourcePath\n          languages(last: 1, orderBy: { field: SIZE, direction:ASC } ) {\n            edges {\n              node {\n                name\n                color\n              }\n            }\n          }\n          licenseInfo {\n            name\n          }\n          stargazers {\n            totalCount\n          }\n        }\n      }\n    }\n  }',
         githubApiVariables: { number_of_repos: 5 },
@@ -784,6 +780,8 @@
         themeToggleInner: 'menu-module--themeToggleInner--3dwRA',
         themeToggleIcon: 'menu-module--themeToggleIcon--2fQdu',
         themeToggleLabel: 'menu-module--themeToggleLabel--2Zd5G',
+        themeToggleButton: 'menu-module--themeToggleButton--3S4wt',
+        themeToggleButtonIcon: 'menu-module--themeToggleButtonIcon--TH6jW',
         customMedia: {},
         customProperties: {},
         customSelectors: {},
@@ -1169,11 +1167,11 @@
           I = 'encodeSpecialCharacters',
           U = 'onChangeClientState',
           R = 'titleTemplate',
-          F = Object.keys(P).reduce(function (e, t) {
+          B = Object.keys(P).reduce(function (e, t) {
             return (e[P[t]] = t), e
           }, {}),
-          z = [w.NOSCRIPT, w.SCRIPT, w.STYLE],
-          B =
+          F = [w.NOSCRIPT, w.SCRIPT, w.STYLE],
+          z =
             'function' == typeof Symbol && 'symbol' == typeof Symbol.iterator
               ? function (e) {
                   return typeof e
@@ -1214,14 +1212,14 @@
               }
               return e
             },
-          _ = function (e, t) {
+          H = function (e, t) {
             var n = {}
             for (var r in e)
               t.indexOf(r) >= 0 ||
                 (Object.prototype.hasOwnProperty.call(e, r) && (n[r] = e[r]))
             return n
           },
-          H = function (e, t) {
+          _ = function (e, t) {
             if (!e)
               throw new ReferenceError(
                 "this hasn't been initialised - super() hasn't been called"
@@ -1296,7 +1294,7 @@
                       'Helmet: ' +
                         e +
                         ' should be of type "Array". Instead found type "' +
-                        B(t[e]) +
+                        z(t[e]) +
                         '"'
                     ),
                   !1)
@@ -1587,7 +1585,7 @@
                               return e ? e + ' ' + a : a
                             }, ''),
                           o = r.innerHTML || r.cssText || '',
-                          i = -1 === z.indexOf(e)
+                          i = -1 === F.indexOf(e)
                         return (
                           t +
                           '<' +
@@ -1663,7 +1661,7 @@
             ((a = pe),
             (i = o = (function (e) {
               function t() {
-                return G(this, t), H(this, e.apply(this, arguments))
+                return G(this, t), _(this, e.apply(this, arguments))
               }
               return (
                 (function (e, t) {
@@ -1768,9 +1766,9 @@
                                 ? arguments[1]
                                 : {}
                             return Object.keys(e).reduce(function (t, n) {
-                              return (t[F[n] || n] = e[n]), t
+                              return (t[B[n] || n] = e[n]), t
                             }, t)
-                          })(_(a, ['children']))
+                          })(H(a, ['children']))
                         switch ((n.warnOnInvalidChildren(e, o), e.type)) {
                           case w.LINK:
                           case w.META:
@@ -1800,7 +1798,7 @@
                 (t.prototype.render = function () {
                   var e = this.props,
                     t = e.children,
-                    n = _(e, ['children']),
+                    n = H(e, ['children']),
                     r = q({}, n)
                   return (
                     t && (r = this.mapChildrenToProps(t, r)),
@@ -1864,7 +1862,7 @@
     },
     wYwS: function (e) {
       e.exports = JSON.parse(
-        '{"data":{"site":{"siteMetadata":{"title":"Reisen","defaultTheme":"light","twitterUrl":"https://twitter.com/kwapoong","githubUrl":"https://github.com/kwapoong","instagramUrl":"https://www.instagram.com/kwapoong/","feedUrl":"/atom.xml","copyrights":"&copy; 2004&mdash;2020 <a href=\\"https://kwapoong.github.io/humans.txt\\">Tony Guo</a>. Some rights reserved.<br />Theme based on <a href=\\"https://mademistakes.com\\" rel=\\"nofollow\\">Made Mistakes</a> • Site hosted by <a href=\\"https://pages.github.com\\" rel=\\"nofollow\\">Github Pages</a>.","mainMenu":[{"title":"Articles","path":"/articles/"},{"title":"Notes","path":"/notes/"},{"title":"Works","path":"/work/"},{"title":"About","path":"/about/"},{"title":"Contact","path":"/contact/"}],"footerMenu":[{"title":"Support me","path":"/support/"},{"title":"FAQs","path":"/faqs/"},{"title":"Terms & policies","path":"/terms/"},{"title":"Sitemap","path":"/sitemap/"}]}}}}'
+        '{"data":{"site":{"siteMetadata":{"title":"Reisen","defaultTheme":"light","twitterUrl":"https://twitter.com/kwapoong","githubUrl":"https://github.com/kwapoong","instagramUrl":"https://www.instagram.com/kwapoong/","feedUrl":"/atom.xml","copyrights":"&copy; 2004&mdash;2020 <a href=\\"https://kwapoong.github.io/humans.txt\\">Tony Guo</a>. Some rights reserved.<br />Theme based on <a href=\\"https://mademistakes.com\\" rel=\\"nofollow\\">Made Mistakes</a> • Site powered by <a href=\\"https://pages.github.com\\" rel=\\"nofollow\\">Github Pages</a>.","mainMenu":[{"title":"Articles","path":"/articles/"},{"title":"Notes","path":"/notes/"},{"title":"Works","path":"/work/"},{"title":"About","path":"/about/"},{"title":"Contact","path":"/contact/"}],"footerMenu":[{"title":"Support me","path":"/support/"},{"title":"FAQs","path":"/faqs/"},{"title":"Terms & policies","path":"/terms/"},{"title":"Sitemap","path":"/sitemap/"}]}}}}'
       )
     },
     yLpj: function (e, t) {
@@ -1881,4 +1879,4 @@
     },
   },
 ])
-//# sourceMappingURL=commons-532bbaafa6f9ce8265d4.js.map
+//# sourceMappingURL=commons-d30527f485d6ad96ae2d.js.map

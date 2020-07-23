@@ -9,7 +9,7 @@
           "authors": [{ "id": "tonykwok", "name": "Tony Guo" }],
           "date": "2020-07-16T00:00:00.000Z",
           "date_pretty": "July 16th, 2020",
-          "date_from_now": "6 days ago",
+          "date_from_now": "7 days ago",
           "last_modified_at": null,
           "last_modified_at_from_now": null,
           "path": "/notes/how-to-remove-a-submodule-in-git/",
@@ -45,7 +45,8 @@
       "comments": { "edges": [] }
     },
     "pageContext": {
-      "next": {
+      "next": null,
+      "previous": {
         "frontmatter": {
           "path": "/notes/squash-commits-into-one-with-git/",
           "title": "Squash commits into one with Git",
@@ -54,16 +55,6 @@
           "tags": ["Git"]
         },
         "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/notes/squash-commits-into-one-with-git.md"
-      },
-      "previous": {
-        "frontmatter": {
-          "path": "/articles/android-graphics-true-facts-2/",
-          "title": "How about some Android graphics true facts? (Part 2 of 2)",
-          "authors": [{ "id": "hackbod", "name": "Dianne Hackborn" }],
-          "categories": ["articles"],
-          "tags": ["Android", "Graphics"]
-        },
-        "fileAbsolutePath": "/home/28041/opensource/github.com/mmistakes/made-mistakes-gatsby/src/posts/articles/How-about-some-Android-graphics-true-facts-continued.md"
       }
     }
   }

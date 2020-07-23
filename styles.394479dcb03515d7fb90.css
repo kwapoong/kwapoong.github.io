@@ -16,7 +16,7 @@
 }
 .btn {
   padding: 0.5em 1em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -246,7 +246,7 @@ p > .gatsby-resp-image-wrapper {
   width: 100%;
   margin-top: 0;
   margin-bottom: 0.5em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -319,7 +319,7 @@ p > .gatsby-resp-image-wrapper {
   background: #d7d8da;
   background: var(--border-color);
   color: #4d4d59;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 30px;
@@ -985,7 +985,7 @@ pre[class*='language-'] {
   width: 100%;
   color: #a9a9b3;
   background: none;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   text-align: left;
@@ -1257,7 +1257,7 @@ div.code-toolbar > .toolbar span:hover {
   padding: 0;
   width: 40px;
   height: 20px;
-  background-color: #f2f2f2;
+  background-color: #fffff8;
   background-color: var(--theme-toggle-primary-color);
   border-radius: 20px;
   outline: 0;
@@ -1271,7 +1271,7 @@ div.code-toolbar > .toolbar span:hover {
   transition: background-color 0.5s ease;
 }
 [data-theme='dark'] .menu-module--themeToggle--2E8ye {
-  background-color: #4d4d4d;
+  background-color: #5e6168;
 }
 .menu-module--themeToggle--2E8ye:focus {
   outline: none !important;
@@ -1289,13 +1289,13 @@ div.code-toolbar > .toolbar span:hover {
   width: 20px;
   height: 20px;
   border-radius: 20px;
-  border: 2px solid #111;
+  border: 2px solid #282c35;
   border: 2px solid var(--theme-toggle-secondary-color);
   overflow: hidden;
   transition: transform 0.5s ease;
 }
 [data-theme='dark'] .menu-module--themeToggleInner--3dwRA {
-  border: 2px solid #f2f2f2;
+  border: 2px solid #fffff8;
   border: 2px solid var(--theme-toggle-primary-color);
   transform: translateX(20px);
 }
@@ -1313,7 +1313,7 @@ div.code-toolbar > .toolbar span:hover {
   height: 100%;
   left: 50%;
   float: left;
-  background-color: #111;
+  background-color: #282c35;
   background-color: var(--theme-toggle-secondary-color);
   transition: border-radius 0.5s ease, width 0.5s ease, height 0.5s ease,
     left 0.5s ease, transform 0.5s ease;
@@ -1323,7 +1323,7 @@ div.code-toolbar > .toolbar span:hover {
   width: 150%;
   height: 85%;
   left: 40%;
-  background-color: #f2f2f2;
+  background-color: #fffff8;
   background-color: var(--theme-toggle-primary-color);
   transform: translate(-10%, -40%), rotate(-35deg);
 }
@@ -1337,6 +1337,110 @@ div.code-toolbar > .toolbar span:hover {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+.menu-module--themeToggleButton--3S4wt {
+  margin-top: 0.46rem;
+  opacity: 0.65;
+  position: relative;
+  border-radius: 5px;
+  width: 40px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease;
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.menu-module--themeToggleButton--3S4wt:focus,
+.menu-module--themeToggleButton--3S4wt:hover {
+  outline: none !important;
+  opacity: 1;
+}
+.menu-module--themeToggleButtonIcon--TH6jW {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: none;
+  background-color: transparent;
+  transform: scale(1);
+  transition: all 0.45s ease;
+  overflow: hidden;
+  box-shadow: inset 8px -8px 0 0 #282c35;
+  box-shadow: inset 8px -8px 0 0 var(--theme-toggle-secondary-color);
+}
+[data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW {
+  border: 4px solid #fffff8;
+  border: 4px solid var(--theme-toggle-primary-color);
+  background-color: #fffff8;
+  background-color: var(--theme-toggle-primary-color);
+  transform: scale(0.55);
+  transition: all 0.45s ease;
+  overflow: visible;
+  box-shadow: none;
+}
+.menu-module--themeToggleButtonIcon--TH6jW:before {
+  content: '';
+  position: absolute;
+  right: -9px;
+  top: -9px;
+  height: 24px;
+  width: 24px;
+  border: none;
+  border-radius: 50%;
+  transform: translate(0);
+  opacity: 1;
+  transition: transform 0.45s ease;
+}
+[data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW:before {
+  border: 2px solid #fffff8;
+  border: 2px solid var(--theme-toggle-primary-color);
+  transform: translate(14px, -14px);
+  opacity: 0;
+}
+.menu-module--themeToggleButtonIcon--TH6jW:after {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin: -4px 0 0 -4px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  box-shadow: 0 -23px 0 #282c35, 0 23px 0 #282c35, 23px 0 0 #282c35,
+    -23px 0 0 #282c35, 15px 15px 0 #282c35, -15px 15px 0 #282c35,
+    15px -15px 0 #282c35, -15px -15px 0 #282c35;
+  box-shadow: 0 -23px 0 var(--theme-toggle-secondary-color),
+    0 23px 0 var(--theme-toggle-secondary-color),
+    23px 0 0 var(--theme-toggle-secondary-color),
+    -23px 0 0 var(--theme-toggle-secondary-color),
+    15px 15px 0 var(--theme-toggle-secondary-color),
+    -15px 15px 0 var(--theme-toggle-secondary-color),
+    15px -15px 0 var(--theme-toggle-secondary-color),
+    -15px -15px 0 var(--theme-toggle-secondary-color);
+  transform: scale(0);
+  transition: all 0.35s ease;
+}
+[data-theme='dark'] .menu-module--themeToggleButtonIcon--TH6jW:after {
+  box-shadow: 0 -23px 0 #fffff8, 0 23px 0 #fffff8, 23px 0 0 #fffff8,
+    -23px 0 0 #fffff8, 15px 15px 0 #fffff8, -15px 15px 0 #fffff8,
+    15px -15px 0 #fffff8, -15px -15px 0 #fffff8;
+  box-shadow: 0 -23px 0 var(--theme-toggle-primary-color),
+    0 23px 0 var(--theme-toggle-primary-color),
+    23px 0 0 var(--theme-toggle-primary-color),
+    -23px 0 0 var(--theme-toggle-primary-color),
+    15px 15px 0 var(--theme-toggle-primary-color),
+    -15px 15px 0 var(--theme-toggle-primary-color),
+    15px -15px 0 var(--theme-toggle-primary-color),
+    -15px -15px 0 var(--theme-toggle-primary-color);
+  transform: scale(1);
 }
 .header-module--header--tFeG9 {
   display: flex;
@@ -1589,8 +1693,8 @@ div.code-toolbar > .toolbar span:hover {
   --button-background-color: #111;
   --code-text-color: #111;
   --code-background-color: #f5f5f6;
-  --theme-toggle-primary-color: #f2f2f2;
-  --theme-toggle-secondary-color: #111;
+  --theme-toggle-primary-color: #fffff8;
+  --theme-toggle-secondary-color: #282c35;
   --facebook-color: #3b5998;
   --flickr-color: #0063dc;
   --github-color: #181717;
@@ -1620,8 +1724,8 @@ div.code-toolbar > .toolbar span:hover {
     sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
     'Noto Color Emoji';
   --serif-font: 'Calluna', 'et-book', 'DM Serif Display', Georgia, serif;
-  --monospace-font: 'SFMono-Regular', Menlo, Monaco, Consolas, 'Fira Mono',
-    'Liberation Mono', 'Courier New', monospace;
+  --monospace-font: 'TheSansMonoCd', 'SFMono-Regular', Menlo, Monaco, Consolas,
+    'Fira Mono', 'Liberation Mono', 'Courier New', monospace;
   --border-radius: 0.125rem;
   --global-transition: all 0.4s ease;
   --avatar-size: 30px;
@@ -1749,7 +1853,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -2070,7 +2174,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
 }
@@ -2259,7 +2363,7 @@ tr {
 .entry-module--meta--13AY1:not(:empty) {
   margin-top: 0.25em;
   margin-bottom: 0.75em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.75em;
@@ -2271,54 +2375,6 @@ tr {
 }
 .entry-module--meta--13AY1:not(:empty) > :not(:last-child):after {
   content: ' \B7   ';
-}
-.entry-module--tags--HhaLq {
-  margin-top: 0.25rem;
-}
-.entry-module--tags--HhaLq .entry-module--tag--2sjmD {
-  display: inline-block;
-  padding: 0.125rem 0.25rem;
-  color: #70707a;
-  color: var(--muted-text-color);
-  background-color: #f5f5f6;
-  background-color: var(--code-background-color);
-  text-decoration: none;
-  border-radius: 0.125rem;
-  border-radius: var(--border-radius);
-}
-.entry-module--tags--HhaLq .entry-module--tag--2sjmD:hover {
-  color: #111;
-  color: var(--code-text-color);
-}
-.entry-module--tags--HhaLq
-  .entry-module--tag--2sjmD
-  + .entry-module--tag--2sjmD {
-  margin-top: 0.25rem;
-  margin-left: 0.5rem;
-}
-.entry-module--authors--2hatv {
-  margin-bottom: 0.25rem;
-}
-.entry-module--authors--2hatv .entry-module--author--2GKFw {
-  display: inline-block;
-  padding: 0.125rem 0.25rem;
-  color: #70707a;
-  color: var(--muted-text-color);
-  background-color: #f5f5f6;
-  background-color: var(--code-background-color);
-  text-decoration: none;
-  border-radius: 0.125rem;
-  border-radius: var(--border-radius);
-}
-.entry-module--authors--2hatv .entry-module--author--2GKFw:hover {
-  color: #111;
-  color: var(--code-text-color);
-}
-.entry-module--authors--2hatv
-  .entry-module--author--2GKFw
-  + .entry-module--author--2GKFw {
-  margin-bottom: 0.25rem;
-  margin-left: 0.5rem;
 }
 .entry-module--excerpt--1Jg-M {
   font-size: 0.875em;
@@ -2457,7 +2513,7 @@ tr {
   }
 }
 .document-module--meta--3MKTa {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.75em;
@@ -2526,7 +2582,7 @@ tr {
 }
 .document-module--tocTitle--2ybLY {
   margin-bottom: 1rem;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   cursor: pointer;
@@ -2704,7 +2760,7 @@ tr {
   max-width: var(--container-width);
   margin: 1rem auto;
   padding: 1em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -2750,7 +2806,7 @@ tr {
 }
 .repository-module--footer--3pX8F {
   margin-top: 0.25rem;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.75em;
@@ -2828,7 +2884,7 @@ tr {
 .comment-module--meta--3GQ6j {
   margin-bottom: 1em;
   padding-bottom: 0.25em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -3329,7 +3385,7 @@ tr {
   padding: 0.125rem 0.5rem;
   color: #70707a;
   color: var(--muted-text-color);
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.75em;
@@ -3456,7 +3512,7 @@ tr {
   width: 100%;
   margin-top: 0;
   margin-bottom: 0.5em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;
@@ -3527,7 +3583,7 @@ tr {
 .comment-form-module--submit--3xEk_ {
   display: inline-block;
   padding: 1em 1.5em;
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
+  font-family: TheSansMonoCd, SFMono-Regular, Menlo, Monaco, Consolas, Fira Mono,
     Liberation Mono, Courier New, monospace;
   font-family: var(--monospace-font);
   font-size: 0.875em;

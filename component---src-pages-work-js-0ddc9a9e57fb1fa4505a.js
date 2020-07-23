@@ -6,10 +6,6 @@
         entry: 'entry-module--entry--22LZB',
         title: 'entry-module--title--3Yzff',
         meta: 'entry-module--meta--13AY1',
-        tags: 'entry-module--tags--HhaLq',
-        tag: 'entry-module--tag--2sjmD',
-        authors: 'entry-module--authors--2hatv',
-        author: 'entry-module--author--2GKFw',
         excerpt: 'entry-module--excerpt--1Jg-M',
         cover: 'entry-module--cover--uvbo5',
         grain: 'entry-module--grain--QUP2_',
@@ -45,7 +41,7 @@
       'use strict'
       t.r(l),
         t.d(l, 'pageQuery', function () {
-          return Ut
+          return Wt
         })
       t('pJf4')
       var c = t('FdF9')
@@ -224,14 +220,14 @@
           d: 'M10 10l-1.5 1.5L5 7.75 1.5 11.5 0 10l5-5 5 5z',
         })
       }
-      function w() {
+      function k() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm0 1.3c1.3 0 2.5.44 3.47 1.17l-8 8A5.755 5.755 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zm0 11.41c-1.3 0-2.5-.44-3.47-1.17l8-8c.73.97 1.17 2.17 1.17 3.47 0 3.14-2.56 5.7-5.7 5.7z',
         })
       }
-      function k() {
+      function w() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -245,14 +241,14 @@
             'M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z',
         })
       }
-      function F() {
+      function T() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M8 8h3v2H7c-.55 0-1-.45-1-1V4h2v4zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z',
         })
       }
-      function T() {
+      function F() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -280,34 +276,34 @@
             'M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z',
         })
       }
-      function G() {
+      function P() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z',
         })
       }
-      function K() {
+      function G() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M12 9H2V8h10v1zm4-6v9c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h14c.55 0 1 .45 1 1zm-1 3H1v6h14V6zm0-3H1v1h14V3zm-9 7H2v1h4v-1z',
         })
       }
-      function P() {
+      function K() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d: 'M0 7v2h8V7H0z',
         })
       }
-      function j() {
+      function Z() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M9 5H8V4h1v1zm4 3h-1v1h1V8zM6 5H5v1h1V5zM5 8H4v1h1V8zm11-5.5l-.5-.5L9 7c-.06-.02-1 0-1 0-.55 0-1 .45-1 1v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-.92l6-5.58zm-1.59 4.09c.19.61.3 1.25.3 1.91 0 3.42-2.78 6.2-6.2 6.2-3.42 0-6.21-2.78-6.21-6.2 0-3.42 2.78-6.2 6.2-6.2 1.2 0 2.31.34 3.27.94l.94-.94A7.459 7.459 0 0 0 8.51 1C4.36 1 1 4.36 1 8.5 1 12.64 4.36 16 8.5 16c4.14 0 7.5-3.36 7.5-7.5 0-1.03-.2-2.02-.59-2.91l-1 1z',
         })
       }
-      function Z() {
+      function j() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -321,49 +317,49 @@
             'M4 6h3V0h2v6h3l-4 4-4-4zm11-4h-4v1h4v8H1V3h4V2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1z',
         })
       }
-      function D() {
+      function U() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M15 3H7c0-.55-.45-1-1-1H2c-.55 0-1 .45-1 1-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h14c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1zM6 5H2V4h4v1zm4.5 7C8.56 12 7 10.44 7 8.5S8.56 5 10.5 5 14 6.56 14 8.5 12.44 12 10.5 12zM13 8.5c0 1.38-1.13 2.5-2.5 2.5S8 9.87 8 8.5 9.13 6 10.5 6 13 7.13 13 8.5z',
         })
       }
-      function U() {
+      function W() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M15.2 2.09L10 5.72V3c0-.55-.45-1-1-1H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h8c.55 0 1-.45 1-1V9.28l5.2 3.63c.33.23.8 0 .8-.41v-10c0-.41-.47-.64-.8-.41z',
         })
       }
-      function W() {
+      function X() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z',
         })
       }
-      function X() {
+      function Y() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M9 0H1C.45 0 0 .45 0 1v14c0 .55.45 1 1 1h8c.55 0 1-.45 1-1V1c0-.55-.45-1-1-1zM5 15.3c-.72 0-1.3-.58-1.3-1.3 0-.72.58-1.3 1.3-1.3.72 0 1.3.58 1.3 1.3 0 .72-.58 1.3-1.3 1.3zM9 12H1V2h8v10z',
         })
       }
-      function Y() {
+      function D() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M6 7h2v1H6v2H5V8H3V7h2V5h1v2zm-3 6h5v-1H3v1zM7.5 2L11 5.5V15c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h6.5zM10 6L7 3H1v12h9V6zM8.5 0H3v1h5l4 4v8h1V4.5L8.5 0z',
         })
       }
-      function q() {
+      function O() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M13 1H1c-.55 0-1 .45-1 1v12c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 13H1V2h12v12zM6 9H3V7h3V4h2v3h3v2H8v3H6V9z',
         })
       }
-      function O() {
+      function q() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -599,14 +595,14 @@
           d: 'M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z',
         })
       }
-      function we() {
+      function ke() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M9 2c-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-1.632.086-2.954 1.333-3 3 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.047-1.69-1.342-2.913-3-3z',
         })
       }
-      function ke() {
+      function we() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -620,14 +616,14 @@
             'M16 9l-3-3V2h-2v2L8 1 0 9h2l1 5c0 .55.45 1 1 1h8c.55 0 1-.45 1-1l1-5h2zm-4 5H9v-4H7v4H4L2.81 7.69 8 2.5l5.19 5.19L12 14z',
         })
       }
-      function Fe() {
+      function Te() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M1 7h2v2h1V3H3v3H1V3H0v6h1V7zm9 2V7H9v2h1zm0-3V4H9v2h1zM7 6V4h2V3H6v6h1V7h2V6H7zm-7 7h10v-2H0v2z',
         })
       }
-      function Te() {
+      function Fe() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -655,35 +651,35 @@
             'M7 10h2v2H7v-2zm2-6H7v5h2V4zm1.5 1.5l-1 1L12 9l4-4.5-1-1L12 7l-1.5-1.5zM8 13.7A5.71 5.71 0 0 1 2.3 8c0-3.14 2.56-5.7 5.7-5.7 1.83 0 3.45.88 4.5 2.2l.92-.92A6.947 6.947 0 0 0 8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7l-1.52 1.52c-.66 2.41-2.86 4.19-5.48 4.19v-.01z',
         })
       }
-      function Ge() {
+      function Pe() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z',
         })
       }
-      function Ke() {
+      function Ge() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M8 9H6V4h2v5zm-2 3h2v-2H6v2zm6.33-2H10l1.5 1.5c-1.05 1.33-2.67 2.2-4.5 2.2A5.71 5.71 0 0 1 1.3 8c0-.34.03-.67.09-1H.08C.03 7.33 0 7.66 0 8c0 3.86 3.14 7 7 7 2.19 0 4.13-1.02 5.41-2.59L14 14v-4h-1.67zM1.67 6H4L2.5 4.5C3.55 3.17 5.17 2.3 7 2.3c3.14 0 5.7 2.56 5.7 5.7 0 .34-.03.67-.09 1h1.31c.05-.33.08-.66.08-1 0-3.86-3.14-7-7-7-2.19 0-4.13 1.02-5.41 2.59L0 2v4h1.67z',
         })
       }
-      function Pe() {
+      function Ke() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M2.81 5h1.98L3 14H1l1.81-9zm.36-2.7c0-.7.58-1.3 1.33-1.3.56 0 1.13.38 1.13 1.03 0 .75-.59 1.3-1.33 1.3-.58 0-1.13-.38-1.13-1.03z',
         })
       }
-      function je() {
+      function Ze() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M4.5 6l-.5.5v5l.5.5h2l.5-.5v-5L6.5 6h-2zM6 11H5V7h1v4zm6.27-7.25C12.05 2.37 11.96 1.12 12 0H9.02c0 .27-.13.48-.39.69-.25.2-.63.3-1.13.3-.5 0-.88-.09-1.13-.3-.23-.2-.36-.42-.36-.69H3c.05 1.13-.03 2.38-.25 3.75C2.55 5.13 1.95 5.88 1 6v9c.02.27.11.48.31.69.2.21.42.3.69.31h11c.27-.02.48-.11.69-.31.21-.2.3-.42.31-.69V6c-.95-.13-1.53-.88-1.75-2.25h.02zM13 15H2V7c.89-.5 1.48-1.25 1.72-2.25S4.03 2.5 4 1h1c-.02.78.16 1.47.52 2.06.36.58 1.02.89 2 .94.98-.02 1.64-.33 2-.94.36-.59.5-1.28.48-2.06h1c.02 1.42.13 2.55.33 3.38.2.81.69 2 1.67 2.63v8V15zM8.5 6l-.5.5v5l.5.5h2l.5-.5v-5l-.5-.5h-2zm1.5 5H9V7h1v4z',
         })
       }
-      function Ze() {
+      function je() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -697,49 +693,49 @@
             'M0 2.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 0 0-3 0zm0 5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 0 0-3 0zM1.5 14a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z',
         })
       }
-      function De() {
+      function Ue() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M12.83 2.17C12.08 1.42 11.14 1.03 10 1c-1.13.03-2.08.42-2.83 1.17S6.04 3.86 6.01 5c0 .3.03.59.09.89L0 12v1l1 1h2l1-1v-1h1v-1h1v-1h2l1.09-1.11c.3.08.59.11.91.11 1.14-.03 2.08-.42 2.83-1.17S13.97 6.14 14 5c-.03-1.14-.42-2.08-1.17-2.83zM11 5.38c-.77 0-1.38-.61-1.38-1.38 0-.77.61-1.38 1.38-1.38.77 0 1.38.61 1.38 1.38 0 .77-.61 1.38-1.38 1.38z',
         })
       }
-      function Ue() {
+      function We() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M10 5H9V4h1v1zM3 6H2v1h1V6zm5-2H7v1h1V4zM4 4H2v1h2V4zm8 7h2v-1h-2v1zM8 7h1V6H8v1zm-4 3H2v1h2v-1zm8-6h-1v1h1V4zm2 0h-1v1h1V4zm-2 5h2V6h-2v3zm4-6v9c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h14c.55 0 1 .45 1 1zm-1 0H1v9h14V3zM6 7h1V6H6v1zm0-3H5v1h1V4zM4 7h1V6H4v1zm1 4h6v-1H5v1zm5-4h1V6h-1v1zM3 8H2v1h1V8zm5 0v1h1V8H8zM6 8v1h1V8H6zM5 8H4v1h1V8zm5 1h1V8h-1v1z',
         })
       }
-      function We() {
+      function Xe() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z',
         })
       }
-      function Xe() {
+      function Ye() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z',
         })
       }
-      function Ye() {
+      function De() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z',
         })
       }
-      function qe() {
+      function Oe() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M11 10h1v3c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h3v1H1v10h10v-3zM6 2l2.25 2.25L5 7.5 6.5 9l3.25-3.25L12 8V2H6z',
         })
       }
-      function Oe() {
+      function qe() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -973,14 +969,14 @@
             'M6 10h2v2H6v-2zm4-3.5C10 8.64 8 9 8 9H6c0-.55.45-1 1-1h.5c.28 0 .5-.22.5-.5v-1c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5V7H4c0-1.5 1.5-3 3-3s3 1 3 2.5zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z',
         })
       }
-      function wl() {
+      function kl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M6.16 3.5C3.73 5.06 2.55 6.67 2.55 9.36c.16-.05.3-.05.44-.05 1.27 0 2.5.86 2.5 2.41 0 1.61-1.03 2.61-2.5 2.61-1.9 0-2.99-1.52-2.99-4.25 0-3.8 1.75-6.53 5.02-8.42L6.16 3.5zm7 0c-2.43 1.56-3.61 3.17-3.61 5.86.16-.05.3-.05.44-.05 1.27 0 2.5.86 2.5 2.41 0 1.61-1.03 2.61-2.5 2.61-1.89 0-2.98-1.52-2.98-4.25 0-3.8 1.75-6.53 5.02-8.42l1.14 1.84h-.01z',
         })
       }
-      function kl() {
+      function wl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -994,14 +990,14 @@
             'M6 3.5c3.92.44 8 3.125 8 10-2.312-5.062-4.75-6-8-6V11L.5 5.5 6 0v3.5z',
         })
       }
-      function Fl() {
+      function Tl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z',
         })
       }
-      function Tl() {
+      function Fl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -1029,35 +1025,35 @@
             'M13 8V6H7V4h6V2l3 3-3 3zM4 2H3v1h1V2zm7 5h1v6c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1v2h-1V1H2v9h9V7zm0 4H1v2h2v-1h3v1h5v-2zM4 6H3v1h1V6zm0-2H3v1h1V4zM3 9h1V8H3v1z',
         })
       }
-      function Gl() {
+      function Pl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M4 3H3V2h1v1zM3 5h1V4H3v1zm4 0L4 9h2v7h2V9h2L7 5zm4-5H1C.45 0 0 .45 0 1v12c0 .55.45 1 1 1h4v-1H1v-2h4v-1H2V1h9.02L11 10H9v1h2v2H9v1h2c.55 0 1-.45 1-1V1c0-.55-.45-1-1-1z',
         })
       }
-      function Kl() {
+      function Gl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M0 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H7l-4 4v-4H1a1 1 0 0 1-1-1V2zm1 0h14v9H6.5L4 13.5V11H1V2zm6 6h2v2H7V8zm0-5h2v4H7V3z',
         })
       }
-      function Pl() {
+      function Kl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M0 1a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H7.5L4 15.5V12H1a1 1 0 0 1-1-1V1zm1 0v10h4v2l2-2h8V1H1zm7.5 3h2v1h-2v2h-1V5h-2V4h2V2h1v2zm2 5h-5V8h5v1z',
         })
       }
-      function jl() {
+      function Zl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M12.17 3.83c-.27-.27-.47-.55-.63-.88-.16-.31-.27-.66-.34-1.02-.58.33-1.16.7-1.73 1.13-.58.44-1.14.94-1.69 1.48-.7.7-1.33 1.81-1.78 2.45H3L0 10h3l2-2c-.34.77-1.02 2.98-1 3l1 1c.02.02 2.23-.64 3-1l-2 2v3l3-3v-3c.64-.45 1.75-1.09 2.45-1.78.55-.55 1.05-1.13 1.47-1.7.44-.58.81-1.16 1.14-1.72-.36-.08-.7-.19-1.03-.34a3.39 3.39 0 0 1-.86-.63zM16 0s-.09.38-.3 1.06c-.2.7-.55 1.58-1.06 2.66-.7-.08-1.27-.33-1.66-.72-.39-.39-.63-.94-.7-1.64C13.36.84 14.23.48 14.92.28 15.62.08 16 0 16 0z',
         })
       }
-      function Zl() {
+      function jl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -1071,49 +1067,49 @@
             'M13 6l-5 5V4h3l2 2zm3 0l-8 8-8-8 4-4h8l4 4zm-8 6.5L14.5 6l-3-3h-7l-3 3L8 12.5z',
         })
       }
-      function Dl() {
+      function Ul() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M13 10h1v3c0 .547-.453 1-1 1h-3v-1h3v-3zM1 10H0v3c0 .547.453 1 1 1h3v-1H1v-3zm0-7h3V2H1c-.547 0-1 .453-1 1v3h1V3zm1 1h10v8H2V4zm2 6h6V6H4v4zm6-8v1h3v3h1V3c0-.547-.453-1-1-1h-3z',
         })
       }
-      function Ul() {
+      function Wl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M2 4H0V3h2V1h1v2c0 .547-.453 1-1 1zm0 8H0v1h2v2h1v-2c0-.547-.453-1-1-1zm9-2c0 .547-.453 1-1 1H4c-.547 0-1-.453-1-1V6c0-.547.453-1 1-1h6c.547 0 1 .453 1 1v4zM9 7H5v2h4V7zm2 6v2h1v-2h2v-1h-2c-.547 0-1 .453-1 1zm1-10V1h-1v2c0 .547.453 1 1 1h2V3h-2z',
         })
       }
-      function Wl() {
+      function Xl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z',
         })
       }
-      function Xl() {
+      function Yl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M11 6H1c-.55 0-1 .45-1 1v2c0 .55.45 1 1 1h10c.55 0 1-.45 1-1V7c0-.55-.45-1-1-1zM2 9H1V7h1v2zm2 0H3V7h1v2zm2 0H5V7h1v2zm2 0H7V7h1v2zm3-8H1c-.55 0-1 .45-1 1v2c0 .55.45 1 1 1h10c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM2 4H1V2h1v2zm2 0H3V2h1v2zm2 0H5V2h1v2zm2 0H7V2h1v2zm3-1h-1V2h1v1zm0 8H1c-.55 0-1 .45-1 1v2c0 .55.45 1 1 1h10c.55 0 1-.45 1-1v-2c0-.55-.45-1-1-1zm-9 3H1v-2h1v2zm2 0H3v-2h1v2zm2 0H5v-2h1v2zm2 0H7v-2h1v2z',
         })
       }
-      function Yl() {
+      function Dl() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M4 7H3V2h1v5zm-1 7h1v-3H3v3zm5 0h1V8H8v6zm5 0h1v-2h-1v2zm1-12h-1v6h1V2zM9 2H8v2h1V2zM5 8H2c-.55 0-1 .45-1 1s.45 1 1 1h3c.55 0 1-.45 1-1s-.45-1-1-1zm5-3H7c-.55 0-1 .45-1 1s.45 1 1 1h3c.55 0 1-.45 1-1s-.45-1-1-1zm5 4h-3c-.55 0-1 .45-1 1s.45 1 1 1h3c.55 0 1-.45 1-1s-.45-1-1-1z',
         })
       }
-      function ql() {
+      function Ol() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
             'M7 0L0 2v6.02C0 12.69 5.31 16 7 16c1.69 0 7-3.31 7-7.98V2L7 0zM5 11l1.14-2.8a.568.568 0 0 0-.25-.59C5.33 7.25 5 6.66 5 6c0-1.09.89-2 1.98-2C8.06 4 9 4.91 9 6c0 .66-.33 1.25-.89 1.61-.19.13-.3.36-.25.59L9 11H5z',
         })
       }
-      function Ol() {
+      function ql() {
         return c.default.createElement('path', {
           fillRule: 'evenodd',
           d:
@@ -1338,27 +1334,27 @@
         (N.size = [8, 16]),
         (S.size = [8, 16]),
         (b.size = [10, 16]),
-        (w.size = [14, 16]),
         (k.size = [14, 16]),
+        (w.size = [14, 16]),
         (x.size = [14, 16]),
-        (F.size = [14, 16]),
-        (T.size = [16, 16]),
+        (T.size = [14, 16]),
+        (F.size = [16, 16]),
         (I.size = [16, 16]),
         (B.size = [14, 16]),
         (J.size = [16, 16]),
+        (P.size = [16, 16]),
         (G.size = [16, 16]),
-        (K.size = [16, 16]),
-        (P.size = [8, 16]),
-        (j.size = [16, 16]),
-        (Z.size = [12, 16]),
+        (K.size = [8, 16]),
+        (Z.size = [16, 16]),
+        (j.size = [12, 16]),
         (_.size = [16, 16]),
-        (D.size = [16, 16]),
         (U.size = [16, 16]),
         (W.size = [16, 16]),
-        (X.size = [10, 16]),
-        (Y.size = [13, 16]),
-        (q.size = [14, 16]),
+        (X.size = [16, 16]),
+        (Y.size = [10, 16]),
+        (D.size = [13, 16]),
         (O.size = [14, 16]),
+        (q.size = [14, 16]),
         (Q.size = [14, 16]),
         ($.size = [14, 16]),
         (ee.size = [14, 16]),
@@ -1392,27 +1388,27 @@
         (Ne.size = [14, 16]),
         (Se.size = [8, 16]),
         (be.size = [16, 16]),
-        (we.size = [12, 16]),
-        (ke.size = [14, 16]),
+        (ke.size = [12, 16]),
+        (we.size = [14, 16]),
         (xe.size = [16, 16]),
-        (Fe.size = [10, 16]),
-        (Te.size = [14, 16]),
+        (Te.size = [10, 16]),
+        (Fe.size = [14, 16]),
         (Ie.size = [14, 16]),
         (Be.size = [14, 16]),
         (Je.size = [16, 16]),
+        (Pe.size = [14, 16]),
         (Ge.size = [14, 16]),
-        (Ke.size = [14, 16]),
-        (Pe.size = [6, 16]),
-        (je.size = [14, 16]),
-        (Ze.size = [13, 16]),
+        (Ke.size = [6, 16]),
+        (Ze.size = [14, 16]),
+        (je.size = [13, 16]),
         (_e.size = [3, 16]),
-        (De.size = [14, 16]),
-        (Ue.size = [16, 16]),
-        (We.size = [14, 16]),
-        (Xe.size = [12, 16]),
-        (Ye.size = [16, 16]),
-        (qe.size = [12, 16]),
+        (Ue.size = [14, 16]),
+        (We.size = [16, 16]),
+        (Xe.size = [14, 16]),
+        (Ye.size = [12, 16]),
+        (De.size = [16, 16]),
         (Oe.size = [12, 16]),
+        (qe.size = [12, 16]),
         (Qe.size = [12, 16]),
         ($e.size = [12, 16]),
         (el.size = [12, 16]),
@@ -1446,27 +1442,27 @@
         (Nl.size = [15, 16]),
         (Sl.size = [14, 16]),
         (bl.size = [14, 16]),
-        (wl.size = [14, 16]),
-        (kl.size = [16, 16]),
+        (kl.size = [14, 16]),
+        (wl.size = [16, 16]),
         (xl.size = [14, 16]),
-        (Fl.size = [12, 16]),
-        (Tl.size = [16, 16]),
+        (Tl.size = [12, 16]),
+        (Fl.size = [16, 16]),
         (Il.size = [12, 16]),
         (Bl.size = [10, 16]),
         (Jl.size = [16, 16]),
-        (Gl.size = [12, 16]),
-        (Kl.size = [16, 16]),
-        (Pl.size = [16, 15]),
-        (jl.size = [16, 16]),
-        (Zl.size = [10, 16]),
+        (Pl.size = [12, 16]),
+        (Gl.size = [16, 16]),
+        (Kl.size = [16, 15]),
+        (Zl.size = [16, 16]),
+        (jl.size = [10, 16]),
         (_l.size = [16, 16]),
-        (Dl.size = [14, 16]),
         (Ul.size = [14, 16]),
-        (Wl.size = [16, 16]),
-        (Xl.size = [12, 16]),
-        (Yl.size = [16, 16]),
-        (ql.size = [14, 16]),
+        (Wl.size = [14, 16]),
+        (Xl.size = [16, 16]),
+        (Yl.size = [12, 16]),
+        (Dl.size = [16, 16]),
         (Ol.size = [14, 16]),
+        (ql.size = [14, 16]),
         (Ql.size = [16, 16]),
         ($l.size = [16, 16]),
         (et.size = [16, 16]),
@@ -1549,12 +1545,12 @@
         size: 16,
         verticalAlign: 'text-bottom',
       }
-      var wt = bt,
-        kt = t('Bl7J'),
+      var kt = bt,
+        wt = t('Bl7J'),
         xt = t('jNNy'),
-        Ft = t('mTGK'),
-        Tt = t('sFJ3'),
-        It = t.n(Tt),
+        Tt = t('mTGK'),
+        Ft = t('sFJ3'),
+        It = t.n(Ft),
         Bt = function (e) {
           var l = e.repo
           return c.default.createElement(
@@ -1583,7 +1579,7 @@
             l
           )
         },
-        Gt = function (e) {
+        Pt = function (e) {
           var l = e.repo,
             t = l.languages.edges
           return c.default.createElement(
@@ -1603,7 +1599,7 @@
             c.default.createElement(
               Jt,
               null,
-              c.default.createElement(wt, {
+              c.default.createElement(kt, {
                 icon: lt,
                 verticalAlign: 'text-top',
               }),
@@ -1614,8 +1610,8 @@
               c.default.createElement(
                 Jt,
                 null,
-                c.default.createElement(wt, {
-                  icon: We,
+                c.default.createElement(kt, {
+                  icon: Xe,
                   verticalAlign: 'text-top',
                 }),
                 ' ',
@@ -1624,7 +1620,7 @@
             c.default.createElement(Jt, null, 'Updated: ', l.updatedAt)
           )
         },
-        Kt = function (e) {
+        Gt = function (e) {
           var l = e.repo
           return c.default.createElement(
             'div',
@@ -1632,54 +1628,54 @@
             c.default.createElement('p', null, l.description)
           )
         },
-        Pt = function (e) {
+        Kt = function (e) {
           var l = e.repo
           return c.default.createElement(
             'div',
             { className: It.a.repository },
             c.default.createElement(Bt, { repo: l }),
-            c.default.createElement(Kt, { repo: l }),
-            c.default.createElement(Gt, { repo: l })
+            c.default.createElement(Gt, { repo: l }),
+            c.default.createElement(Pt, { repo: l })
           )
         },
-        jt = t('5LqB'),
-        Zt = t.n(jt),
+        Zt = t('5LqB'),
+        jt = t.n(Zt),
         _t = t('KYHh'),
-        Dt = t.n(_t),
-        Ut = '180434776'
+        Ut = t.n(_t),
+        Wt = '180434776'
       l.default = function (e) {
         var l = e.data,
           t = l.site.siteMetadata.author,
           n = l.allMarkdownRemark.edges,
           a = l.githubData.data
         return c.default.createElement(
-          kt.a,
+          wt.a,
           null,
           c.default.createElement(xt.a, {
-            title: 'Works - ' + Dt.a.title,
+            title: 'Works - ' + Ut.a.title,
             path: '/work/',
             description:
               "A selection of things I've designed, illustrated, and developed.",
-            metaImage: Dt.a.image,
+            metaImage: Ut.a.image,
           }),
           c.default.createElement(
             'main',
-            { id: 'main', className: Zt.a.main },
+            { id: 'main', className: jt.a.main },
             c.default.createElement(
               'div',
-              { className: Zt.a.title },
+              { className: jt.a.title },
               c.default.createElement(
                 'h1',
-                { className: Zt.a.heading },
+                { className: jt.a.heading },
                 c.default.createElement('span', null, 'Works')
               )
             ),
             c.default.createElement(
               'div',
-              { className: Zt.a.content },
+              { className: jt.a.content },
               c.default.createElement(
                 'div',
-                { className: Zt.a.intro },
+                { className: jt.a.intro },
                 c.default.createElement(
                   'p',
                   null,
@@ -1688,12 +1684,12 @@
               ),
               c.default.createElement(
                 'h2',
-                { className: Zt.a.subHeading },
+                { className: jt.a.subHeading },
                 c.default.createElement('span', null, 'Featured work')
               ),
               c.default.createElement(
                 'div',
-                { className: Zt.a.gridList },
+                { className: jt.a.gridList },
                 n.map(function (e) {
                   var l = e.node,
                     n = l.id,
@@ -1704,7 +1700,7 @@
                     u = h.author,
                     z = h.image,
                     r = h.excerpt
-                  return c.default.createElement(Ft.a, {
+                  return c.default.createElement(Tt.a, {
                     key: n,
                     title: v,
                     path: d,
@@ -1716,14 +1712,14 @@
               ),
               c.default.createElement(
                 'h2',
-                { className: Zt.a.subHeading },
+                { className: jt.a.subHeading },
                 c.default.createElement(
                   'span',
                   null,
-                  c.default.createElement(wt, {
+                  c.default.createElement(kt, {
                     icon: al,
                     verticalAlgin: 'middle',
-                    className: Zt.a.icon,
+                    className: jt.a.icon,
                   }),
                   ' ',
                   'Open source contributions'
@@ -1735,7 +1731,7 @@
                   null,
                   a.viewer.repositories.nodes
                     .map(function (e) {
-                      return c.default.createElement(Pt, {
+                      return c.default.createElement(Kt, {
                         key: e.name,
                         repo: e,
                       })
@@ -1838,4 +1834,4 @@
     },
   },
 ])
-//# sourceMappingURL=component---src-pages-work-js-fe57248414d2e173a23d.js.map
+//# sourceMappingURL=component---src-pages-work-js-0ddc9a9e57fb1fa4505a.js.map
